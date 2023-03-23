@@ -1,0 +1,1058 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Data": [
+    {
+      "id": 114,
+      "name_category": "",
+      "title": "Al Fatihah - (7 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/001.mp3",
+      "duration": "51",
+      "lyrics": "" 
+    },
+    {
+      "id": 113,
+      "name_category": "",
+      "title": "Al Baqarah - (286 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/002.mp3",
+      "duration": "7539",
+       "lyrics": ""
+    },
+    {
+      "id": 112,
+      "name_category": "",
+      "title": "Ali 'Imran - (200 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/003.mp3",
+      "duration": "4649",
+      "lyrics": ""
+    },
+    {
+      "id": 111,
+      "name_category": "",
+      "title": "An Nisa' - (176 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/004.mp3",
+      "duration": "4785",
+      "lyrics": ""
+    },
+    {
+      "id": 110,
+      "name_category": "",
+      "title": "Al Ma'idah - (120 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/005.mp3",
+      "duration": "3767",
+      "lyrics": ""
+    },
+    {
+      "id": 109,
+      "name_category": "",
+      "title": "Al An'am - (165 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/006.mp3",
+      "duration": "4335",
+      "lyrics": ""
+    },
+    {
+      "id": 108,
+      "name_category": "",
+      "title": "Al A'raf - (206 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/007.mp3",
+      "duration": "4972",
+      "lyrics": ""
+    },
+    {
+      "id": 107,
+      "name_category": "",
+      "title": "Al Anfal - (75 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/008.mp3",
+      "duration": "1823",
+      "lyrics": "" 
+    },
+    {
+      "id": 106,
+      "name_category": "",
+      "title": "At Taubah - (129 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/009.mp3",
+      "duration": "3624",
+       "lyrics": ""
+    },
+    {
+      "id": 105,
+      "name_category": "",
+      "title": "Yunus - (109 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/010.mp3",
+      "duration": "2690",
+      "lyrics": ""
+    },
+    {
+      "id": 104,
+      "name_category": "",
+      "title": "Hud - (123 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/011.mp3",
+      "duration": "2771",
+      "lyrics": ""
+    },
+    {
+      "id": 103,
+      "name_category": "",
+      "title": "Yusuf - (111 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/012.mp3",
+      "duration": "2524",
+      "lyrics": ""
+    },
+    {
+      "id": 102,
+      "name_category": "",
+      "title": "Ar Ra'd - (43 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/013.mp3",
+      "duration": "1216",
+      "lyrics": ""
+    },
+    {
+      "id": 101,
+      "name_category": "",
+      "title": "Ibrahim - (52 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/014.mp3",
+      "duration": "1227",
+      "lyrics": ""
+    },
+    {
+      "id": 100,
+      "name_category": "",
+      "title": "Al Hijr - (99 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/015.mp3",
+      "duration": "954",
+      "lyrics": "" 
+    },
+    {
+      "id": 99,
+      "name_category": "",
+      "title": "An Nahl - (128 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/016.mp3",
+      "duration": "2528",
+       "lyrics": ""
+    },
+    {
+      "id": 98,
+      "name_category": "",
+      "title": "Al Isra' - (111 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/017.mp3",
+      "duration": "2113",
+      "lyrics": ""
+    },
+    {
+      "id": 97,
+      "name_category": "",
+      "title": "Al Kahfi - (110 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/018.mp3",
+      "duration": "1995",
+      "lyrics": ""
+    },
+    {
+      "id": 96,
+      "name_category": "",
+      "title": "Maryam - (98 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/019.mp3",
+      "duration": "1282",
+      "lyrics": ""
+    },
+    {
+      "id": 95,
+      "name_category": "",
+      "title": "Toha - (135 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/020.mp3",
+      "duration": "1627",
+      "lyrics": ""
+    },
+    {
+      "id": 94,
+      "name_category": "",
+      "title": "Al Anbiya' - (112 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/021.mp3",
+      "duration": "1570",
+      "lyrics": ""
+    },
+    {
+      "id": 93,
+      "name_category": "",
+      "title": "Al Hajj - (78 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/022.mp3",
+      "duration": "1772",
+      "lyrics": "" 
+    },
+    {
+      "id": 92,
+      "name_category": "",
+      "title": "Al Mu'minun - (118 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/023.mp3",
+      "duration": "1485",
+       "lyrics": ""
+    },
+    {
+      "id": 91,
+      "name_category": "",
+      "title": "An Nur - (64 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/024.mp3",
+      "duration": "1840",
+      "lyrics": ""
+    },
+    {
+      "id": 90,
+      "name_category": "",
+      "title": "Al Furqon - (77 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/025.mp3",
+      "duration": "1101",
+      "lyrics": ""
+    },
+    {
+      "id": 89,
+      "name_category": "",
+      "title": "Asy Syu'ara' - (227 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/026.mp3",
+      "duration": "1832",
+      "lyrics": ""
+    },
+    {
+      "id": 88,
+      "name_category": "",
+      "title": "An Naml - (93 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/027.mp3",
+      "duration": "1572",
+      "lyrics": ""
+    },
+    {
+      "id": 87,
+      "name_category": "",
+      "title": "Al Qosos - (88 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/028.mp3",
+      "duration": "1903",
+      "lyrics": ""
+    },
+    {
+      "id": 86,
+      "name_category": "",
+      "title": "Al 'Ankabut - (69 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/029.mp3",
+      "duration": "1270",
+      "lyrics": "" 
+    },
+    {
+      "id": 85,
+      "name_category": "",
+      "title": "Ar Rum - (60 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/030.mp3",
+      "duration": "1171",
+       "lyrics": ""
+    },
+    {
+      "id": 84,
+      "name_category": "",
+      "title": "Luqman - (34 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/031.mp3",
+      "duration": "715",
+      "lyrics": ""
+    },
+    {
+      "id": 83,
+      "name_category": "",
+      "title": "As Sajdah - (30 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/032.mp3",
+      "duration": "523",
+      "lyrics": ""
+    },
+    {
+      "id": 82,
+      "name_category": "",
+      "title": "Al Ahzab - (73 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/033.mp3",
+      "duration": "1742",
+      "lyrics": ""
+    },
+    {
+      "id": 81,
+      "name_category": "",
+      "title": "Saba' - (54 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/034.mp3",
+      "duration": "1142",
+      "lyrics": ""
+    },
+    {
+      "id": 80,
+      "name_category": "",
+      "title": "Fatir - (45 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/035.mp3",
+      "duration": "1056",
+      "lyrics": ""
+    },
+    {
+      "id": 79,
+      "name_category": "",
+      "title": "Yasin -  (83 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/036.mp3",
+      "duration": "1059",
+      "lyrics": "" 
+    },
+    {
+      "id": 78,
+      "name_category": "",
+      "title": "As Shoffat - (182 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/037.mp3",
+      "duration": "1449",
+       "lyrics": ""
+    },
+    {
+      "id": 77,
+      "name_category": "",
+      "title": "Shod - (88 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/038.mp3",
+      "duration": "1069",
+      "lyrics": ""
+    },
+    {
+      "id": 76,
+      "name_category": "",
+      "title": "Az Zumar - (75 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/039.mp3",
+      "duration": "1629",
+      "lyrics": ""
+    },
+    {
+      "id": 75,
+      "name_category": "",
+      "title": "Al Mu'min - (85 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/040.mp3",
+      "duration": "1567",
+      "lyrics": ""
+    },
+    {
+      "id": 74,
+      "name_category": "",
+      "title": "Fussilat -  54 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/041.mp3",
+      "duration": "1160",
+      "lyrics": ""
+    },
+    {
+      "id": 73,
+      "name_category": "",
+      "title": "Asy Syura - (206 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/042.mp3",
+      "duration": "1169",
+      "lyrics": ""
+    },
+    {
+      "id": 72,
+      "name_category": "",
+      "title": "Az Zukhruf - (89 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/043.mp3",
+      "duration": "1228",
+      "lyrics": "" 
+    },
+    {
+      "id": 71,
+      "name_category": "",
+      "title": "Ad Dukhon - (59 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/044.mp3",
+      "duration": "576",
+       "lyrics": ""
+    },
+    {
+      "id": 70,
+      "name_category": "",
+      "title": "Al Jatsiyah - (37 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/045.mp3",
+      "duration": "620",
+      "lyrics": ""
+    },
+    {
+      "id": 69,
+      "name_category": "",
+      "title": "Al Ahqof - (35 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/046.mp3",
+      "duration": "957",
+      "lyrics": ""
+    },
+    {
+      "id": 68,
+      "name_category": "",
+      "title": "Muhammad - (38 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/047.mp3",
+      "duration": "737",
+      "lyrics": ""
+    },
+    {
+      "id": 67,
+      "name_category": "",
+      "title": "Al Fath - (29 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/048.mp3",
+      "duration": "721",
+      "lyrics": ""
+    },
+    {
+      "id": 66,
+      "name_category": "",
+      "title": "Al Hujarat - (18 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/049.mp3",
+      "duration": "501",
+      "lyrics": ""
+    },
+    {
+      "id": 65,
+      "name_category": "",
+      "title": "Qof - (45 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/050.mp3",
+      "duration": "559",
+      "lyrics": "" 
+    },
+    {
+      "id": 64,
+      "name_category": "",
+      "title": "Az Zariyat - (60 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/051.mp3",
+      "duration": "544",
+       "lyrics": ""
+    },
+    {
+      "id": 63,
+      "name_category": "",
+      "title": "At Tur - (49 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/052.mp3",
+      "duration": "485",
+      "lyrics": ""
+    },
+    {
+      "id": 62,
+      "name_category": "",
+      "title": "An Najm - (62 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/053.mp3",
+      "duration": "461",
+      "lyrics": ""
+    },
+    {
+      "id": 61,
+      "name_category": "",
+      "title": "Al Qomar - (55 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/054.mp3",
+      "duration": "482",
+      "lyrics": ""
+    },
+    {
+      "id": 60,
+      "name_category": "",
+      "title": "Ar Rahman - (78 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/055.mp3",
+      "duration": "679",
+      "lyrics": ""
+    },
+    {
+      "id": 59,
+      "name_category": "",
+      "title": "Al Waqi'ah -(96 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/056.mp3",
+      "duration": "716",
+      "lyrics": ""
+    },
+    {
+      "id": 58,
+      "name_category": "",
+      "title": "Al Hadid - (29 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/057.mp3",
+      "duration": "808",
+      "lyrics": "" 
+    },
+    {
+      "id": 57,
+      "name_category": "",
+      "title": "Al Mujadilah - (22 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/058.mp3",
+      "duration": "613",
+       "lyrics": ""
+    },
+    {
+      "id": 56,
+      "name_category": "",
+      "title": "Al Hasyr - (24 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/059.mp3",
+      "duration": "626",
+      "lyrics": ""
+    },
+    {
+      "id": 55,
+      "name_category": "",
+      "title": "Al Mumtahanah - (13 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/060.mp3",
+      "duration": "451",
+      "lyrics": ""
+    },
+    {
+      "id": 54,
+      "name_category": "",
+      "title": "As Shoff - (14 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/061.mp3",
+      "duration": "292",
+      "lyrics": ""
+    },
+    {
+      "id": 53,
+      "name_category": "",
+      "title": "Al Jumu'ah - (11 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/062.mp3",
+      "duration": "573",
+      "lyrics": ""
+    },
+    {
+      "id": 52,
+      "name_category": "",
+      "title": "Al Munafiqun - (11 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/063.mp3",
+      "duration": "258",
+      "lyrics": ""
+    },
+    {
+      "id": 51,
+      "name_category": "",
+      "title": "At Tagabun - (18 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/064.mp3",
+      "duration": "324",
+      "lyrics": "" 
+    },
+    {
+      "id": 50,
+      "name_category": "",
+      "title": "At Tholaq - (12 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/065.mp3",
+      "duration": "361",
+       "lyrics": ""
+    },
+    {
+      "id": 49,
+      "name_category": "",
+      "title": "At Tahrim - (12 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/066.mp3",
+      "duration": "357",
+      "lyrics": ""
+    },
+    {
+      "id": 48,
+      "name_category": "",
+      "title": "Al Mulk - (30 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/067.mp3",
+      "duration": "455",
+      "lyrics": ""
+    },
+    {
+      "id": 47,
+      "name_category": "",
+      "title": "Al Qolam - (52 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/068.mp3",
+      "duration": "456",
+      "lyrics": ""
+    },
+    {
+      "id": 46,
+      "name_category": "",
+      "title": "Al Haqqoh - (52 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/069.mp3",
+      "duration": "405",
+      "lyrics": ""
+    },
+    {
+      "id": 45,
+      "name_category": "",
+      "title": "Al Ma'arij - (44 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/070.mp3",
+      "duration": "317",
+      "lyrics": ""
+    },
+    {
+      "id": 44,
+      "name_category": "",
+      "title": "Nuh - (28 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/071.mp3",
+      "duration": "280",
+      "lyrics": "" 
+    },
+    {
+      "id": 43,
+      "name_category": "",
+      "title": "Aj Jin - (28 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/072.mp3",
+      "duration": "334",
+       "lyrics": ""
+    },
+    {
+      "id": 42,
+      "name_category": "",
+      "title": "Al Muzammil - (20 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/073.mp3",
+      "duration": "244",
+      "lyrics": ""
+    },
+    {
+      "id": 41,
+      "name_category": "",
+      "title": "Al Muddatssir - (56 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/074.mp3",
+      "duration": "324",
+      "lyrics": ""
+    },
+    {
+      "id": 40,
+      "name_category": "",
+      "title": "Al Qiyamah - (40 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/075.mp3",
+      "duration": "211",
+      "lyrics": ""
+    },
+    {
+      "id": 39,
+      "name_category": "",
+      "title": "Al Insan - (31 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/076.mp3",
+      "duration": "314",
+      "lyrics": ""
+    },
+    {
+      "id": 38,
+      "name_category": "",
+      "title": "Al Mursalat - (50 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/077.mp3",
+      "duration": "285",
+      "lyrics": ""
+    },
+    {
+      "id": 37,
+      "name_category": "",
+      "title": "An Naba' - (40 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/078.mp3",
+      "duration": "292",
+      "lyrics": "" 
+    },
+    {
+      "id": 36,
+      "name_category": "",
+      "title": "An Nazi'at - (46 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/079.mp3",
+      "duration": "256",
+       "lyrics": ""
+    },
+    {
+      "id": 35,
+      "name_category": "",
+      "title": "'Abasa - (42 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/080.mp3",
+      "duration": "220",
+      "lyrics": ""
+    },
+    {
+      "id": 34,
+      "name_category": "",
+      "title": "At Takwir - (29 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/081.mp3",
+      "duration": "158",
+      "lyrics": ""
+    },
+    {
+      "id": 33,
+      "name_category": "",
+      "title": "Al Infitar - (19 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/082.mp3",
+      "duration": "136",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "",
+      "title": "Al Mutaffifin - (36 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/083.mp3",
+      "duration": "310",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "",
+      "title": "Al Insyiqoq - (25 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/084.mp3",
+      "duration": "160",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "",
+      "title": "Al Buruj - (22 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/085.mp3",
+      "duration": "198",
+      "lyrics": "" 
+    },
+    {
+      "id": 29,
+      "name_category": "",
+      "title": "At Thoriq - (17 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/086.mp3",
+      "duration": "100",
+       "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "",
+      "title": "Al A'Laa - (19 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/087.mp3",
+      "duration": "107",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "",
+      "title": "Al Ghosyiyah - (26 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/088.mp3",
+      "duration": "134",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "",
+      "title": "Al Fajr - (30 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/089.mp3",
+      "duration": "212",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "",
+      "title": "Al Balad - (20 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/090.mp3",
+      "duration": "120",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "",
+      "title": "As Syams - (15 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/091.mp3",
+      "duration": "84",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "",
+      "title": "Al Lail - (21 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/092.mp3",
+      "duration": "111",
+      "lyrics": "" 
+    },
+    {
+      "id": 22,
+      "name_category": "",
+      "title": "Ad Dhuha - (11 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/093.mp3",
+      "duration": "65",
+       "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "",
+      "title": "Al Insyirah - (8 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/094.mp3",
+      "duration": "43",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "",
+      "title": "At Tin' - (8 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/095.mp3",
+      "duration": "64",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "",
+      "title": "Al 'Alaq - (19 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/096.mp3",
+      "duration": "95",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "",
+      "title": "Al Qodr - (5 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/097.mp3",
+      "duration": "45",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "",
+      "title": "Al Bayyinah - (8 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/098.mp3",
+      "duration": "126",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "",
+      "title": "Al Zalzalah - (8 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/099.mp3",
+      "duration": "59",
+      "lyrics": "" 
+    },
+    {
+      "id": 15,
+      "name_category": "",
+      "title": "Al 'Adiyat - (286 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/100.mp3",
+      "duration": "70",
+       "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "",
+      "title": "Al Qori'ah - (11 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/101.mp3",
+      "duration": "62",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "",
+      "title": "At Takatssur - (8 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/102.mp3",
+      "duration": "62",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "",
+      "title": "Al 'Asshr - (3 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/103.mp3",
+      "duration": "27",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "",
+      "title": "Al Humazah - (9 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/104.mp3",
+      "duration": "58",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "",
+      "title": "Al Fil - (5 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/105.mp3",
+      "duration": "48",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "",
+      "title": "Al Quraisy - (4 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/106.mp3",
+      "duration": "42",
+      "lyrics": "" 
+    },
+    {
+      "id": 8,
+      "name_category": "",
+      "title": "Al Ma'un - (7 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/107.mp3",
+      "duration": "57",
+       "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "",
+      "title": "Al Kautsar - (3 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/108.mp3",
+      "duration": "24",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "",
+      "title": "Al Kafirun - (6 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/109.mp3",
+      "duration": "54",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "",
+      "title": "An Nashr - (3 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/110.mp3",
+      "duration": "34",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "",
+      "title": "Al Lahab - (5 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/111.mp3",
+      "duration": "41",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "",
+      "title": "Al Ikhlas - (4 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/112.mp3",
+      "duration": "21",
+      "lyrics": ""
+    },
+     {
+      "id": 2,
+      "name_category": "",
+      "title": "Al Falaq - (5 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/113.mp3",
+      "duration": "33",
+      "lyrics": ""
+    },
+    {
+      "id": 1,
+      "name_category": "",
+      "title": "An Nas - (6 Verses)",
+      "image": "https://tafsiralquran.id/wp-content/uploads/2020/07/alquran5.jpg",
+      "link_mp3": "https://server8.mp3quran.net/afs/114.mp3",
+      "duration": "50",
+      "lyrics": ""
+    }
+    ]
+}
