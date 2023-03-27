@@ -36,40 +36,40 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Playstore",
-      "image": "file:///android_asset/image/image1.png"
+      "name_category": "Mudik",
+      "image": "https://assets.pikiran-rakyat.com/crop/582x189:1149x513/x/photo/2023/03/15/3709635243.png"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "Playstore",
+      "name_category": "Mudik",
       "title": "Pengertian Mudik Gratis",
-      "image": "file:///android_asset/image/guide1.jpg",
+      "image": "https://assets.pikiran-rakyat.com/crop/582x189:1149x513/x/photo/2023/03/15/3709635243.png",
       "description": "Apakah itu mudik gratis 2023",
       "link": "https://wartiny.github.io/baru/pengertianmudik.html"
     },
     {
       "id": 2,
-      "name_category": "Tutorial",
+      "name_category": "Mudik",
       "title": "Syarat Mudik Motor Gratis 2023",
-      "image": "file:///android_asset/image/guide2.jpg",
+      "image": "https://2.bp.blogspot.com/-R-htzIT30oI/VZkniT_CWPI/AAAAAAAAANA/xyODnDnzksk/s1600/Gambar%2BDP%2BBBM%2BMudik%2BLebaran%2BPulang%2BKampung%2B2.png",
       "description": "Apa saja syarat mudik motor gratis 2023",
       "link": "https://wartiny.github.io/baru/syaratmudik.html"
     },
     {
       "id": 3,
-      "name_category": "Tutorial",
+      "name_category": "Mudik",
       "title": "Jadwal Mudik Gratis 2023",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/03/27/mudik-Gratis-2023-2360647234.jpg",
       "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
       "link": "https://wartiny.github.io/baru/jadwalmudik.html"
     },
     {
       "id": 4,
-      "name_category": "Reskin",
+      "name_category": "Mudik",
       "title": "Cara Daftar Mudik Gratis 2023",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/03/19/mudik-gratis-2023-2867430108.jpg",
       "description": "Berikut syarat untuk mudik gratis 2023",
       "link": "https://wartiny.github.io/baru/caradaftarmudik.html"
     }
