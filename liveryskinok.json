@@ -1,0 +1,180 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Livery Part 1",
+      "image": "https://i.pinimg.com/736x/19/a3/2d/19a32d49630681f52b0fd097fcd7d40c.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Livery Part 2",
+      "image": "https://i.pinimg.com/564x/e1/0f/3b/e10f3b9d32df8173a3f36b7202dee44c.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Livery Part 3",
+      "image": "https://i.pinimg.com/564x/45/26/d3/4526d329dd068878fe8c9d11b5690b92.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Livery Part 3",
+      "image": "https://i.pinimg.com/564x/a3/68/7a/a3687a5ab33b368defbd034082bf9096.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category":"Livery Part 1",
+      "title": "Livery Supra x R34",
+      "image": "https://i.pinimg.com/736x/19/a3/2d/19a32d49630681f52b0fd097fcd7d40c.jpg",
+      "description": "Livery Supra x R34 Fast And Furious Fr Legends Changeable Color",
+      "link": "https://pandeyanbantul.blogspot.com/2022/11/livery-supra-x-r34.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Livery Part 1",
+      "title": "BMW E36 Anindita Hidayat Castrol Drift",
+      "image": "https://i.pinimg.com/564x/fa/5e/e3/fa5ee3d2d828ae2c9071105abfc728c0.jpg",
+      "description": "BMW E36 Anindita Hidayat Castrol Drift",
+      "link": "https://pandeyanbantul.blogspot.com/2022/11/bmw-e36-anindita-hidayat-castrol-drift.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Livery Part 1",
+      "title": "Itasha 180SX Power",
+      "image": "https://i.pinimg.com/564x/f3/8c/05/f38c05d093a426cc1a97b1650ea65fdb.jpg",
+      "description": "Livery Itasha 180SX Power Chainsaw Man",
+      "link": "https://pandeyanbantul.blogspot.com/2022/11/itasha-180sx-power-chainsaw-man.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Livery Part 1",
+      "title": "R35 Rocket bunny By Dimas",
+      "image": "https://i.pinimg.com/564x/6e/7e/e1/6e7ee11f86add09b0412730ec7440c3d.jpg",
+      "description": "ivery R35 Rocket bunny By Dimas",
+      "link": "https://pandeyanbantul.blogspot.com/2022/11/livery-r35-rocket-bunny-by-dimas.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Livery Part 1",
+      "title": "Nissan Silvia S110 1979",
+      "image": "https://i.pinimg.com/736x/3f/a0/2b/3fa02bb8775b5cfb09c63e339e76f4d4.jpg",
+      "description": "Livery Nissan Silvia S110 1979",
+      "link": "https://pandeyanbantul.blogspot.com/2022/11/livery-nissan-silvia-s110-1979.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Livery Part 1",
+      "title": "R34 KeizerZ Livery",
+      "image": "https://i.pinimg.com/736x/64/59/94/6459948c29856315ff0509b119c20044.jpg",
+      "description": "R34 KeizerZ Livery",
+      "link": "https://pandeyanbantul.blogspot.com/2022/11/r34-keizerz-livery.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Livery Part 1",
+      "title": "BMW M4 Liberty Walk",
+      "image": "https://i.pinimg.com/564x/e5/82/44/e5824493089a29c7de33e90218329077.jpg",
+      "description": "BMW M4 Liberty Walk change color",
+      "link": "https://pandeyanbantul.blogspot.com/2022/11/bmw-m4-liberty-walk.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Livery Part 1",
+      "title": "Livery Itasha 5 character in one car",
+      "image": "https://i.pinimg.com/564x/90/8e/c1/908ec1f9376198280841a9cd45f9154a.jpg",
+      "description": "Livery Itasha 5 character in one car",
+      "link": "https://pandeyanbantul.blogspot.com/2022/11/livery-itasha-5-character-in-one-car.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Livery Part 1",
+      "title": "Mazda RX-7 FD3S",
+      "image": "https://i.pinimg.com/564x/2a/42/c0/2a42c01246e6db45eb0632debd0f477d.jpg",
+      "description": "Mazda RX-7 FD3S",
+      "link": "https://pandeyanbantul.blogspot.com/2022/11/mazda-rx-7-fd3s.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Livery Part 1",
+      "title": "Mazda RX-7 FD3S Uras Type S",
+      "image": "https://i.pinimg.com/564x/94/b3/62/94b362e2000031632119db5239c6b4ff.jpg",
+      "description": "Mazda RX-7 FD3S Uras Type S",
+      "link": "https://pandeyanbantul.blogspot.com/2022/11/mazda-rx-7-fd3s-uras-type-s.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Livery Part 1",
+      "title": "Mazda RX-7 FD3S Re-Amemiya",
+      "image": "https://i.pinimg.com/564x/0f/2b/65/0f2b65f2a37c6d2d2162fceb930766ef.jpg",
+      "description": "Mazda RX-7 FD3S Re-Amemiya",
+      "link": "https://pandeyanbantul.blogspot.com/2022/11/mazda-rx-7-fd3s-re-amemiya.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Livery Part 1",
+      "title": "Mazda RX-7 FD3S Origin Labo Stylish Line",
+      "image": "https://i.pinimg.com/736x/ae/b5/b7/aeb5b7dca83fd16b63c036efa20e8559.jpg",
+      "description": "Mazda RX-7 FD3S Origin Labo Stylish Line",
+      "link": "https://pandeyanbantul.blogspot.com/2022/11/mazda-rx-7-fd3s-origin-labo-stylish-line.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Livery Part 2",
+      "title": "New Livery Honda Civic FD S14 Dipo",
+      "image": "https://i.pinimg.com/564x/5c/30/4b/5c304b53a70f47cd5e51eb04fcfa08b8.jpg",
+      "description": "New Livery Honda Civic FD S14 Dipo",
+      "link": "https://pandeyanbantul.blogspot.com/2022/11/new-livery-honda-civic-fd-s14-dipo.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Livery Part 2",
+      "title": "GT86 Green Style",
+      "image": "https://i.pinimg.com/736x/2d/a4/73/2da47392d4e1317595b21350486173bb.jpg",
+      "description": "GT86 Green Style",
+      "link": "https://pandeyanbantul.blogspot.com/2022/11/gt86-green-style.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Livery Part 2",
+      "title": "GT86 Tribal",
+      "image": "https://i.pinimg.com/736x/ab/92/84/ab9284501e47ece8521b45bad52f7403.jpg",
+      "description": "GT86 Tribal",
+      "link": "https://pandeyanbantul.blogspot.com/2022/11/gt86-tribal.html"
+    }
+  ]
+}
