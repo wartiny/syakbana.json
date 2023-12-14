@@ -27,89 +27,74 @@
   ],
   "Maps": [
     {
-      "name_map": "Tol Trans Jawa v2 by X Play Kembar",
-      "view_map": "file:///android_asset/tol.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+      "name_map": "Map Terminal Poris - Pemalang by Fergiawan",
+      "view_map": "https://iili.io/HY9jXpt.md.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/map/Start%20Dari%20Poris.bussidmod"
     },
     {
-      "name_map": "Kelok 18 by Aliyan GMP",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
-    },
-    {
-      "name_map": "Jalur Bukit, Hutan dan Berkelok v3 by Aliyan GMP",
-      "view_map": "file:///android_asset/berkelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
-    },
-    {
-      "name_map": "Bukit Bintang (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/bukit.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
-    },
-    {
-      "name_map": "Poris – Pemalang v1 by Fergiawan CH",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
+      "name_map": "Map Pemalang - Poris by Fergiawan",
+      "view_map": "https://iili.io/HY9WHqQ.md.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/map/Start%20Dari%20Pemalang.bussidmod"
     }
   ],
   "Mods": [
     {
-      "title": "SR3 XHD Prime Ultimate Mercy 1836 by MN Art x KP Projects",
-      "image": "file:///android_asset/Prime.webp",
-      "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Prime.bussidmod",
-      "name_livery": "PO Haryanto",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Haryanto.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
-    },
-    {
-      "title": "Mercedes-Benz 1521 AC by Faridh Madyawan",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.webp",
-      "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.bussidmod",
-      "name_livery": "Rajawali",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rajawali.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
-    },
-    {
-      "title": "SR3 XHD Prime Ultimate by MN Art x BFC",
-      "image": "file:///android_asset/Ultimate.webp",
-      "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/SR3.bussidmod",
-      "name_livery": "Rosalia Indah",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rosalia.png",
+      "title": "Fortuner VRZ Travel 01",
+      "image": "https://iili.io/HtMC4LJ.jpg",
+      "category": "Mobil",
+      "link_mods": "https://rame1.maybusid.my.id/mod/car/857_Toyota_Fortuner_VRZ_Travel.bussidmod",
+      "name_livery": "VRZ Travel",
+      "link_livery": "https://rame1.maybusid.my.id/mod/liv/vrztravelputih.png",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "Canter Ghaisan by Andry Azhari",
-      "image": "file:///android_asset/Ghaisan.webp",
-      "category": "Truk",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.bussidmod",
-      "name_livery": "Rosalia",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Restollia.png",
-      "name_livery2": "Ghaisan",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.png"
-    },
-    {
-      "title": "Truck Isuzu Deca Bak Dropside by SJA Official",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.webp",
-      "category": "Truk",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.bussidmod",
-      "name_livery": "Deca Bak V1",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak1.png",
-      "name_livery2": "Deca Bak V2",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak2.png"
-    },
-    {
-      "title": "Nissan Skyline GT-R R34 Paul Walker by NGR cvt MAH",
-      "image": "file:///android_asset/Skyline.webp",
+      "title": "Toyota Fortuner VRZ Travel 02",
+      "image": "https://iili.io/HtMnnLb.jpg",
       "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.bussidmod",
+      "link_mods": "https://rame1.maybusid.my.id/mod/car/857_Toyota_Fortuner_VRZ_Travel.bussidmod",
+      "name_livery": "VRZ Travel 02",
+      "link_livery": "https://rame1.maybusid.my.id/mod/liv/ungutrvel.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Toyota Fortuner 2014",
+      "image": "https://iili.io/HtMxQdQ.jpg",
+      "category": "Mobil",
+      "link_mods": "https://rame1.maybusid.my.id/mod/car/280_Toyota_Fortuner_2014.bussidmod",
       "name_livery": "null",
       "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Fortuner Street Racing",
+      "image": "https://iili.io/HtMz1Eb.jpg",
+      "category": "Mobil",
+      "link_mods": "https://rame1.maybusid.my.id/mod/car/275_Toyota_Fortuner_Street_Racing.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Toyota Fortuner VRZ",
+      "image": "https://iili.io/HtMzM3x.jpg",
+      "category": "Mobil",
+      "link_mods": "https://rame1.maybusid.my.id/mod/car/210_Fortuner_VRZ_2022.bussidmod",
+      "name_livery": "Fortuner VRZ",
+      "link_livery": "https://rame1.maybusid.my.id/mod/liv/LIVERY%20FORCUM.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Toyota 2012 Modif",
+      "image": "https://iili.io/HDrvTHx.jpg",
+      "category": "Mobil",
+      "link_mods": "https://mod2n.maybusid.my.id/mod/car/Toyota_Innova_2012_Modif.bussidmod",
+      "name_livery": "Toyota 2012",
+      "link_livery": "https://mod2n.maybusid.my.id/mod/liv/inova2012.png",
       "name_livery2": "null",
       "link_livery2": "null"
     },
