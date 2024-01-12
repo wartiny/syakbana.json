@@ -1,0 +1,150 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Maps": [
+    {
+      "name_map": "Tol Trans Jawa v2 by X Play Kembar",
+      "view_map": "file:///android_asset/tol.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+    },
+    {
+      "name_map": "Kelok 18 by Aliyan GMP",
+      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
+    },
+    {
+      "name_map": "Jalur Bukit, Hutan dan Berkelok v3 by Aliyan GMP",
+      "view_map": "file:///android_asset/berkelok.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
+    },
+    {
+      "name_map": "Bukit Bintang (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
+      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/bukit.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
+    },
+    {
+      "name_map": "Poris – Pemalang v1 by Fergiawan CH",
+      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
+    }
+  ],
+  "Mods": [
+    {
+      "title": "VIXION PANGLIMA TEMPUR BY REGA X GAMING",
+      "image": "https://i.pinimg.com/736x/96/59/2a/96592a225bd8f4c4db94efe04dba7c06.jpg",
+      "category": "Bus",
+      "link_mods": "https://mapes.maybusid.my.id/mod/mtr/VIXION%20PANGLIMA%20TEMPUR%20BY%20REGA%20X%20GAMING.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "VARIO 150 PROPER MODIF HEDON BY REGA X GAMING",
+      "image": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/04/09/mod-xtreme-motorbikes-vario-150-358751297.png",
+      "category": "Bus",
+      "link_mods": "https://mapes.maybusid.my.id/mod/mtr/VARIO%20150%20PROPER%20MODIF%20HEDON%20BY%20REGA%20X%20GAMING.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "MOD MX SENGKUNI BY REGA X GAMING",
+      "image": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/06/09/cheat-asian-drag-champion-4156548213.jpg",
+      "category": "Bus",
+      "link_mods": "https://mapes.maybusid.my.id/mod/mtr/MOD%20MX%20SENGKUNI%20BY%20REGA%20X%20GAMING.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+	},  
+    {
+      "title": "MOD BUSSID R6 AKANG MV CVT BY REGA X GAMING",
+      "image": "https://i.pinimg.com/564x/5b/2f/ca/5b2fcaa2774bd5710e5428d29b98db5a.jpg",
+      "category": "Bus",
+      "link_mods": "https://mapes.maybusid.my.id/mod/mtr/MOD%20BUSSID%20R6%20AKANG%20MV%20CVT%20BY%20REGA%20X%20GAMING.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "AEROX HEDON MODIF PROPER BY REGA X GAMING",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2020/10/SGCA_IMG-6132.jpg",
+      "category": "Bus",
+      "link_mods": "https://mapes.maybusid.my.id/mod/mtr/AEROX%20HEDON%20MODIF%20PROPER%20BY%20%20REGA%20X%20GAMING.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "790_Honda_CB_Koko_Krunch",
+      "image": "https://media.hobigame.id/2023/02/mod-motor-bussid-honda-cb-150r-1-hobigame.jpg",
+      "category": "Bus",
+      "link_mods": "https://mapes.maybusid.my.id/mod/mtr/790_Honda_CB_Koko_Krunch.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "782_Kawasaki_Ninja_H2R",
+      "image": "https://files.libertycity.net/download/gtasa_motorcycle/thumbs/2021-04/kawasaki-ninja-h2r_1686007073_835562.jpg",
+      "category": "Bus",
+      "link_mods": "https://mapes.maybusid.my.id/mod/mtr/782_Kawasaki_Ninja_H2R.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "762_Honda_CBR_1000RR",
+      "image": "https://img.gta5-mods.com/q75/images/honda-cbr1000rr-motors-garage-razor/85bbfb-BXXBNRH.jpg",
+      "category": "Bus",
+      "link_mods": "https://mapes.maybusid.my.id/mod/mtr/762_Honda_CBR_1000RR.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    }
+  ],
+  "Audio": [
+    {
+      "title_mp3": "null",
+      "name": "null",
+      "url_mp3": "null"
+    }
+  ],
+  "Radio": [
+    {
+      "title_radio": "null",
+      "url_radio": "null"
+    }
+  ]
+}
