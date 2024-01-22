@@ -1,0 +1,301 @@
+{
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "APPLOVIN-D",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+			"main_ads_rewards": "ca-app-pub-3940256099942544/5224354917",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "db4d5e8718b97d78",
+			"backup_ads_intertitial": "518cd97722c60b52",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "ca-app-pub-3940256099942544/9257395921",
+			"open_ads_alien": "",
+			"open_ads_max": "",
+			"open_ads_wortise": "",
+			"on_off_native_listview": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://",
+			"on_off_category": "2"
+		}
+	],
+	"More": [
+		{
+			"id": 1,
+			"title": "Lapak Asik BPJSTKU",
+			"image": "https://play-lh.googleusercontent.com/b57l9KvMs3OCdbNahKRmE98DE8TxxNiYP3q_4vfgditELcOndANmBQAc3oyPGwg-Icc=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.syakbana.lapakasik.ceksaldobpjstk&hl=id&gl=US"
+		},
+		{
+			"id": 2,
+			"title": "Koi Fish Live Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/67t94B5vdLFtxfcYG1GkQb-hqx94xP2Hterm6U6GIr6mdNoGGpTcdeQwZU-kViUpkRc=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.koipond.koifish.livewallpaper&hl=id&gl=US"
+		},
+		{
+			"id": 3,
+			"title": "Magic 5 Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/92aQEffsB0SjqgkyBIXmMm4mt6bN6I6UEW5O02U2l5Ozyb7PgNhILjXEzyuodJQsUQ=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.syakbana.wallpaper.magic5&hl=id&gl=US"
+		}
+	],
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/e1/ba/62/e1ba62e72f90d7d955263c56174f0366.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/e1/ba/62/e1ba62e72f90d7d955263c56174f0366.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/da/b8/d2/dab8d2dcd093e11a8edfd05150679c6e.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/16/8e/0d/168e0d089d3080ca3d3c1fe8fe309034.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/7f/c2/51/7fc2510f78cfcb5f7084becf1502196c.jpg"
+		},
+		{
+			"id": 5,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/736x/96/84/0a/96840ae558b8573bd722f4360fb7aefb.jpg"
+		},
+		{
+			"id": 6,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/8a/8a/e8/8a8ae834740c7f6510b8b1a47bda278b.jpg"
+		},
+		{
+			"id": 7,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/ad/ca/e3/adcae3fe5171547c64d6898c1ebc8eff.jpg"
+		},
+		{
+			"id": 8,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/f4/e1/77/f4e17724d61bcc3a192edd6141ce5d13.jpg"
+		},
+		{
+			"id": 9,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/bd/fd/2a/bdfd2adb834b40e8b3fe7082f5a21d3f.jpg"
+		},
+		{
+			"id": 10,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/69/3d/ef/693defdb5b71e6383a4ee2246705053c.jpg"
+		},
+		{
+			"id": 11,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/66/d1/32/66d132eea98c857a1ee0a9c42fc4edbb.jpg"
+		},
+		{
+			"id": 12,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/35/f3/b7/35f3b7793e1fe8eea694572976aca953.jpg"
+		},
+		{
+			"id": 13,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/f6/20/3a/f6203aacdb322313d5aaeb492d0aaf22.jpg"
+		},
+		{
+			"id": 14,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/02/35/24/0235242ccf9b50669a28f3807d668be1.jpg"
+		},
+		{
+			"id": 15,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/ad/42/da/ad42da58d48300cb5272be3018abbe23.jpg"
+		},
+		{
+			"id": 16,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/f6/87/47/f68747d676ed8eb3a4056483b6d380a2.jpg"
+		},
+		{
+			"id": 17,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/36/23/c3/3623c33e67fae6d5d19b98052b248d3d.jpg"
+		},
+		{
+			"id": 18,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/e9/ba/ed/e9baed04b40005873dc92269ad159410.jpg"
+		},
+		{
+			"id": 19,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/b2/77/87/b2778719e4af4735121acbf4319808f3.jpg"
+		},
+		{
+			"id": 20,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/de/7a/de/de7ade848528261984d5afe1d13edb22.jpg"
+		},
+		{
+			"id": 21,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/00/c7/79/00c77975d3b77ba70cc49266ab9d07f3.jpg"
+		},
+		{
+			"id": 22,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/6b/6f/34/6b6f34ee78360a58a587e110c5896511.jpg"
+		},
+		{
+			"id": 23,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/87/d3/16/87d31603803eaff3d33da918d8bd2261.jpg"
+		},
+		{
+			"id": 24,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/1e/9a/47/1e9a47aaa0449578902f8dc389849afa.jpg"
+		},
+		{
+			"id": 25,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image":"https://i.pinimg.com/564x/8f/3e/3b/8f3e3b3d3c5b2754e0d0d9a2d535b333.jpg"
+		},
+		{
+			"id": 26,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/5d/86/12/5d8612e148813da0298a135f8856d514.jpg"
+		},
+		{
+			"id": 27,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/1d/0b/18/1d0b18b799bf738fb52d0ba3a744376e.jpg"
+		},
+		{
+			"id": 28,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/dd/2d/19/dd2d19430906c8e327d701a5418bfca4.jpg"
+		},
+		{
+			"id": 29,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image":"https://i.pinimg.com/564x/57/20/ba/5720ba6f34ea9f5b2296d4d304ac0e6e.jpg"
+		},
+		{
+			"id": 30,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/a4/4e/e7/a44ee741776d7ec173f809cf6142cb25.jpg"
+		},
+		{
+			"id": 31,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/78/ab/64/78ab64fe561abaebb4adbb44aea2e072.jpg"
+		},
+		{
+			"id": 32,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/5c/b1/31/5cb131c4957cf377bf3bffeba6ded69d.jpg"
+		},
+		{
+			"id": 33,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/eb/86/3b/eb863be5cd08b0b09709046587dc73a8.jpg"
+		},
+		{
+			"id": 34,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/eb/f0/0b/ebf00bb51676a939075e28e84f1e3868.jpg"
+		},
+		{
+			"id": 35,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/ae/c4/bc/aec4bcf0f39171e2c55e8ed5c5e533f5.jpg"
+		},
+		{
+			"id": 36,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/74/1e/18/741e1866c9b282216297afd0bdce2f67.jpg"
+		},
+		{
+			"id": 37,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/2a/53/c8/2a53c8f6599742d8eb8a91145197604a.jpg"
+		},
+		{
+			"id": 38,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/63/fe/70/63fe700e96efb9502cb63d642473bc61.jpg"
+		},
+		{
+			"id": 39,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/47/b0/1e/47b01e96779e5ac44d59b6b9dc96db1b.jpg"
+		},
+		{
+			"id": 40,
+			"name_category": "Spoon Flower",
+			"title": "Spoon Flower",
+			"image": "https://i.pinimg.com/564x/da/22/46/da2246db25209551eaee89f58886bee1.jpg"
+		}
+	]
+}
