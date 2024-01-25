@@ -3,7 +3,7 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"FACEBOOK",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_banner": "ca-app-pub-1003836792919645/2775170679",
       "main_ads_intertitial":"ca-app-pub-1003836792919645/8361895074",
       "main_ads_natives":"null",
       "backup_ads_natives":"904854914505093_904855481171703",
