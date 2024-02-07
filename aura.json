@@ -1,0 +1,241 @@
+{
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "APPLOVIN-D",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+			"main_ads_rewards": "ca-app-pub-3940256099942544/5224354917",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "db4d5e8718b97d78",
+			"backup_ads_intertitial": "518cd97722c60b52",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "ca-app-pub-3940256099942544/9257395921",
+			"open_ads_alien": "",
+			"open_ads_max": "",
+			"open_ads_wortise": "",
+			"on_off_native_listview": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://",
+			"on_off_category": "2"
+		}
+	],
+	"More": [
+		{
+			"id": 1,
+			"title": "Lapak Asik BPJSTKU",
+			"image": "https://play-lh.googleusercontent.com/b57l9KvMs3OCdbNahKRmE98DE8TxxNiYP3q_4vfgditELcOndANmBQAc3oyPGwg-Icc=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.syakbana.lapakasik.ceksaldobpjstk&hl=id&gl=US"
+		},
+		{
+			"id": 2,
+			"title": "Koi Fish Live Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/67t94B5vdLFtxfcYG1GkQb-hqx94xP2Hterm6U6GIr6mdNoGGpTcdeQwZU-kViUpkRc=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.koipond.koifish.livewallpaper&hl=id&gl=US"
+		},
+		{
+			"id": 3,
+			"title": "Magic 5 Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/92aQEffsB0SjqgkyBIXmMm4mt6bN6I6UEW5O02U2l5Ozyb7PgNhILjXEzyuodJQsUQ=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.syakbana.wallpaper.magic5&hl=id&gl=US"
+		}
+	],
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "Aura",
+			"image": "https://i.pinimg.com/564x/76/d7/6e/76d76e0d61e53710095be579ed0b6f5d.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/76/d7/6e/76d76e0d61e53710095be579ed0b6f5d.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/e1/fd/f5/e1fdf58e8eb147930b5a9e816150d662.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/f4/e2/df/f4e2df3f5a5dc7e4c3ca66c11ca644ec.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/0d/03/44/0d03442340fa41c1562f3989996fb577.jpg"
+		},
+		{
+			"id": 5,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/5f/0c/0c/5f0c0c253f37803e39f22138a4e1e55d.jpg"
+		},
+		{
+			"id": 6,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/2b/3b/ea/2b3bea46e9d941bbfa9b70dd9477a6f1.jpg"
+		},
+		{
+			"id": 7,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/53/6d/7e/536d7e3461fc8cee97fa921036c95a56.jpg"
+		},
+		{
+			"id": 8,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/6b/8f/7f/6b8f7f3ec93209a2dfe1d550a590babf.jpg"
+		},
+		{
+			"id": 9,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/b4/b3/ae/b4b3aef1facdf6da13b3b56c4e84b820.jpg"
+		},
+		{
+			"id": 10,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/a6/28/ff/a628ff4bd693bdf398ca4a7339ab5a90.jpg"
+		},
+		{
+			"id": 11,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/83/a6/cf/83a6cff5b7ea2ec2f8ea456fdb3c4498.jpg"
+		},
+		{
+			"id": 12,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/d7/11/d8/d711d856d2f7c306c9907508a063559d.jpg"
+		},
+		{
+			"id": 13,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/00/20/0e/00200e5191b9634290588745483976e1.jpg"
+		},
+		{
+			"id": 14,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/9f/07/41/9f07414073ef47f1eb16c605dfb3cd16.jpg"
+		},
+		{
+			"id": 15,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/7a/96/0e/7a960e737112191a1fe427078cf4bae2.jpg"
+		},
+		{
+			"id": 16,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/18/d4/8c/18d48c36c6cd6aa95a30e67739851cd4.jpg"
+		},
+		{
+			"id": 17,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/69/d4/86/69d486a4b65f77654aca979843ce8939.jpg"
+		},
+		{
+			"id": 18,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/8f/6a/fe/8f6afee23e4dfc8fa9c8d9b120cb6a87.jpg"
+		},
+		{
+			"id": 19,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/63/2b/1f/632b1f35d523749d6dc29e0db72a961f.jpg"
+		},
+		{
+			"id": 20,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/5a/fa/37/5afa37058d4ac2921eacc19c5e9e9293.jpg"
+		},
+		{
+			"id": 21,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/10/95/3e/10953e0c8fc79082e0ba5e25ceccc660.jpg"
+		},
+		{
+			"id": 22,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/c6/ae/cc/c6aecc1fbb08b0c6a0e5607657dff5c4.jpg"
+		},
+		{
+			"id": 23,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/73/99/e6/7399e63ae72fe816cc939d19397378a4.jpg"
+		},
+		{
+			"id": 24,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/43/5f/d1/435fd1cdbce55ac53083a00289b3be02.jpg"
+		},
+		{
+			"id": 25,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image":"https://i.pinimg.com/564x/ba/37/22/ba37223f2042f8927e284a3a35f15826.jpg"
+		},
+		{
+			"id": 26,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/8d/f4/8f/8df48f9141ddf1f5ddf72c0cb57d8a8a.jpg"
+		},
+		{
+			"id": 27,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/a8/37/2f/a8372fbaeef9a3c608b5e61dbbaf3272.jpg"
+		},
+		{
+			"id": 28,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/ad/a6/7c/ada67c0b7611d54096d76b1c7c7845d9.jpg"
+		},
+		{
+			"id": 29,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image":"https://i.pinimg.com/564x/43/c1/84/43c18481777aaa1a0e58d0c470a405b8.jpg"
+		},
+		{
+			"id": 30,
+			"name_category": "Aura",
+			"title": "Aura",
+			"image": "https://i.pinimg.com/564x/77/54/88/775488d22e79defab7594f0c90741ad9.jpg"
+		}
+	]
+}
