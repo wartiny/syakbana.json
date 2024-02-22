@@ -29,89 +29,42 @@
   ],
      "Categories": [
     {
-      "category": "Hari Raya",
-      "image_link": "frame/idul.webp"
+      "category": "ramadhan",
+      "image_link": "https://frame.twibbonize.com/3f427ee0-a5b3-41ac-bf07-48b2da90281d.png"
 
-    },
-    {
-      "category": "Hari Nasional",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
-
-    },
-    {
-      "category": "Pendidikan",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
-
-    },
-    {
-      "category": "Lainnya",
-      "image_link": "frame/ribut.webp"
-
+    }
     }
   ],
 
   "Item": [
     {
       "id": 1,
-      "category": "Hari Nasional",
-      "title": "Hari Batik Nasional",
-      "image_link": "frame/batik.webp"
+      "category": "ramadhan",
+      "title": "marhaban 1",
+      "image_link": "https://frame.twibbonize.com/3f427ee0-a5b3-41ac-bf07-48b2da90281d.png"
     },
-    {
+	{
       "id": 2,
-      "category": "Hari Raya",
-      "title": "Idul Fitri",
-      "image_link": "frame/idul.webp"
+      "category": "ramadhan",
+      "title": "marhaban 2",
+      "image_link": "https://frame.twibbonize.com/7215cce5-ff7f-4d7e-99a2-9f6af9e55f9a.png"
     },
-    {
+	{
       "id": 3,
-      "category": "Pendidikan",
-      "title": "Olimpiade SAINS",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
-    },
-    {
+      "category": "ramadhan",
+      "title": "marhaban 2",
+      "image_link": "https://frame.twibbonize.com/ba7363af-e79e-4a48-aafc-8fddff777b26.png"
+    },	{
       "id": 4,
-      "category": "Pendidikan",
-      "title": "Olimpiade Biologi",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade2.png"
-    },
-    {
+      "category": "ramadhan",
+      "title": "marhaban 2",
+      "image_link": "https://frame.twibbonize.com/e3ac27e7-c538-4eac-8ccc-aad887243a09.png"
+    },	{
       "id": 5,
-      "category": "Hari Nasional",
-      "title": "Hari Kebangkitan Pancasila",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
-    },
-    {
-      "id": 6,
-      "category": "Hari Nasional",
-      "title": "Hari Sumpah Pemuda",
-      "image_link": "frame/pemuda.webp"
-    },
-    {
-      "id": 7,
-      "category": "Lainnya",
-      "title": "PKKTB 2021",
-      "image_link": "frame/pkktb.webp"
-    },
-    {
-      "id": 8,
-      "category": "Lainnya",
-      "title": "Ribut Bikin Kangen",
-      "image_link": "frame/ribut.webp"
-    },
-    {
-      "id": 9,
-      "category": "Hari Nasional",
-      "title": "Hari Santri Nasional",
-      "image_link": "frame/santri2.webp"
-    },
-    {
-      "id": 10,
-      "category": "Lainnya",
-      "title": "Ayo Divaksin",
-      "image_link": "frame/vaksin.webp"
+      "category": "ramadhan",
+      "title": "marhaban 2",
+      "image_link": "https://frame.twibbonize.com/e8681c3e-126b-4c93-97aa-ecf38dd81652.png"
     }
-
 
   ]
 }
