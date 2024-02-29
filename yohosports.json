@@ -1,0 +1,93 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tutor",
+      "image": "https://image.made-in-china.com/318f0j00uQOtZfzIjThE/ID115-Plus-mp4.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Tutor",
+      "title": "Wearing Method",
+      "image": "https://static-01.daraz.pk/p/4f30f1932b6605bac0f4cd70827664c3.jpg",
+      "description": "Wearing Method band",
+      "link": "https://darwindroid.github.io/gambar/howtoweringmethod.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutor",
+      "title": "Charging the band",
+      "image": "https://manuals.plus/wp-content/uploads/2019/03/YOHO-sports-band-2.png",
+      "description": "Charging method for the band",
+      "link": "https://darwindroid.github.io/gambar/thechargingband.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutor",
+      "title": "Power on/off",
+      "image": "https://image.made-in-china.com/318f0j00uQOtZfzIjThE/ID115-Plus-mp4.jpg",
+      "description": "Power on/off guide",
+      "link": "https://darwindroid.github.io/gambar/poweronguide.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tutor",
+      "title": "Band operation",
+      "image": "https://manuals.plus/wp-content/uploads/2021/02/YOHO-Sports-Band-Quick-Setup-Guide-300x300.jpg",
+      "description": "Band operation guide",
+      "link": "https://darwindroid.github.io/gambar/bandoperations.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Tutor",
+      "title": "App functions and settings",
+      "image": "https://i.ytimg.com/vi/15RkpeLrlQQ/maxresdefault.jpg",
+      "description": "App functions and settings guide",
+      "link": "https://darwindroid.github.io/gambar/appfunctionsettings.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Tutor",
+      "title": "Bundle the band to APP",
+      "image": "https://manuals.plus/wp-content/uploads/2021/02/Bundle-the-band-to-APP-300x135.png",
+      "description": "Bundle the band to APP guide",
+      "link": "https://darwindroid.github.io/gambar/bundlebands.html"
+    }
+  ]
+}
