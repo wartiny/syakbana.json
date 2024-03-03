@@ -1,0 +1,86 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Easy",
+      "image": "https://img-17.ccm2.net/p7EEyFw1w0SrTxRfFfSyuCyNYE8=/500x/a1ac2ed6c4e7414c8bac5548d63c9a5f/ccm-faq/Localizar_0.jpg"
+    }
+  ],
+
+  "Data": [
+            {
+      "id": 1,
+      "name_category": "Easy",
+      "title": "Con Una Pagina",
+      "image": "https://img-17.ccm2.net/uAOkmbibxBevo1H-39FyLXlSfdc=/500x/c5b4493cc7ad4e66a5651fc1b6ec7513/ccm-faq/Localizar_7.jpg",
+      "description": "Con una página de búsqueda inversa",
+      "link": "https://darwindroid.github.io/gambar/pagi.html"
+    },
+        {
+      "id": 2,
+      "name_category": "Easy",
+      "title": "Con Gogl",
+      "image": "https://img-17.ccm2.net/fVeGKIaiujnF_sJRGp3yjb7YbZM=/500x/cf8da397c45a4c1cbccf6ffe8b7b7c1a/ccm-faq/Localizar_1.jpg",
+      "description": "opción usar Gogl",
+      "link": "https://darwindroid.github.io/gambar/congogl.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Easy",
+      "title": "Con IG",
+      "image": "https://img-17.ccm2.net/doat770Mb_PbMTbomHCgCi85d3M=/400x/e4aec8f50b3a40bf9ec8e8027b0b999a/ccm-faq/Localizar_6.jpg",
+      "description": "opción usar Istgrm",
+      "link": "https://darwindroid.github.io/gambar/conig.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Easy",
+      "title": "Con WA",
+      "image": "https://img-17.ccm2.net/67fHITLuzo71skRtKwVjjudlw6A=/400x/7a78a4a6e1274b26ad0dadb97fa7721a/ccm-faq/Localizar_2.jpg",
+      "description": "opción usar Whtspp",
+      "link": "https://darwindroid.github.io/gambar/conwa.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Easy",
+      "title": "Con FB",
+      "image": "https://img-17.ccm2.net/ryUcxX8TSqQ9znzcu8st_5LG5HA=/500x/49e3da0976794ed296d2ca33d6198d6c/ccm-faq/Localizar_4.jpg",
+      "description": "Otra opción es usar FB",
+      "link": "https://darwindroid.github.io/gambar/confb.html"
+    }
+  ]
+}
