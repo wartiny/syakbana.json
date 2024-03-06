@@ -25,23 +25,8 @@
   ],
      "Categories": [
     {
-      "category": "Hari Raya",
-      "image_link": "frame/idul.webp"
-
-    },
-    {
-      "category": "Hari Nasional",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
-
-    },
-    {
-      "category": "Pendidikan",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
-
-    },
-    {
-      "category": "Lainnya",
-      "image_link": "frame/ribut.webp"
+      "category": "Idul Fitri 24",
+      "image_link": "https://frame.twibbonize.com/0a0e163a-800c-4541-beb5-f83177adde84.png"
 
     }
   ],
@@ -49,63 +34,51 @@
   "Item": [
     {
       "id": 1,
-      "category": "Hari Nasional",
-      "title": "Hari Batik Nasional",
-      "image_link": "frame/batik.webp"
+      "category": "Idul Fitri 24",
+      "title": "Lebaran 1",
+      "image_link": "https://frame.twibbonize.com/d0c8567d-5091-42be-a382-416b21bdbfe9.png"
     },
     {
       "id": 2,
-      "category": "Hari Raya",
-      "title": "Idul Fitri",
-      "image_link": "frame/idul.webp"
+      "category": "Idul Fitri 24",
+      "title": "Lebaran 1",
+      "image_link": "https://frame.twibbonize.com/0a0e163a-800c-4541-beb5-f83177adde84.png"
     },
     {
       "id": 3,
-      "category": "Pendidikan",
-      "title": "Olimpiade SAINS",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
+      "category": "Idul Fitri 24",
+      "title": "Lebaran 1",
+      "image_link": "https://frame.twibbonize.com/88419e09-ee52-4ddd-a8ba-bf8cafecf357.png"
     },
     {
       "id": 4,
-      "category": "Pendidikan",
-      "title": "Olimpiade Biologi",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade2.png"
+      "category": "Idul Fitri 24",
+      "title": "Lebaran 1",
+      "image_link": "https://frame.twibbonize.com/56ebbc0a-cfcf-4638-9ac5-1f99ef964fb2.png"
     },
     {
       "id": 5,
-      "category": "Hari Nasional",
-      "title": "Hari Kebangkitan Pancasila",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
+      "category": "Idul Fitri 24",
+      "title": "Lebaran 1",
+      "image_link": "https://frame.twibbonize.com/55f4b736-0720-46a5-b5a6-35b108737f6d.png"
     },
     {
       "id": 6,
-      "category": "Hari Nasional",
-      "title": "Hari Sumpah Pemuda",
-      "image_link": "frame/pemuda.webp"
+      "category": "Idul Fitri 24",
+      "title": "Lebaran 1",
+      "image_link": "https://frame.twibbonize.com/c9256676-2300-4115-bbe0-7998c360f045.png"
     },
     {
       "id": 7,
-      "category": "Lainnya",
-      "title": "PKKTB 2021",
-      "image_link": "frame/pkktb.webp"
+      "category": "Idul Fitri 24",
+      "title": "Lebaran 1",
+      "image_link": "https://frame.twibbonize.com/686a60a6-62c7-46ac-97a1-033fe13bfb40.png"
     },
     {
       "id": 8,
-      "category": "Lainnya",
-      "title": "Ribut Bikin Kangen",
-      "image_link": "frame/ribut.webp"
-    },
-    {
-      "id": 9,
-      "category": "Hari Nasional",
-      "title": "Hari Santri Nasional",
-      "image_link": "frame/santri2.webp"
-    },
-    {
-      "id": 10,
-      "category": "Lainnya",
-      "title": "Ayo Divaksin",
-      "image_link": "frame/vaksin.webp"
+      "category": "Idul Fitri 24",
+      "title": "Lebaran 1",
+      "image_link": "https://frame.twibbonize.com/06d45766-1621-4a74-9322-ad3e04ecb68b.png"
     }
 
 
