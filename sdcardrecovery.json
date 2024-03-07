@@ -1,0 +1,77 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Guide",
+      "image": "https://www.handyrecovery.com/wp-content/uploads/2022/03/transcend-sd-card-recovery.jpeg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "Understanding Data Loss on SD Cards",
+      "image": "https://www.handyrecovery.com/wp-content/uploads/2022/03/transcend-sd-card-recovery.jpeg",
+      "description": "Causes of data loss on SD cards",
+      "link": "https://wartiny.github.io/baru/causedatalos.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Guide",
+      "title": "Recovery Solutions",
+      "image": "https://www.handyrecovery.com/wp-content/uploads/2022/08/recuva-sd-card-recovery-950x500.jpeg",
+      "description": "Exploring SD Card Recovery Solutions",
+      "link": "https://wartiny.github.io/baru/exploresoution.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Guide",
+      "title": "Guide to Data Recovery",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*jh31yPU_GNdWywyLMySDxQ.jpeg",
+      "description": "Step-by-Step Guide to SD Card Data Recovery",
+      "link": "https://wartiny.github.io/baru/steptorecover.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Tips and Best Practices",
+      "image": "https://www.easefab.com/images/file-recovery/recover-photos-from-sd-card.jpg",
+      "description": "Best Practices for Effective SD Card Data Recovery",
+      "link": "https://wartiny.github.io/baru/tipsfor.html"
+    }
+  ]
+}
