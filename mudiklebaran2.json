@@ -1,0 +1,77 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Mudik",
+      "image": "https://assets.pikiran-rakyat.com/crop/582x189:1149x513/x/photo/2023/03/15/3709635243.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Mudik",
+      "title": "Pengertian Mudik Gratis",
+      "image": "https://assets.pikiran-rakyat.com/crop/582x189:1149x513/x/photo/2023/03/15/3709635243.png",
+      "description": "Apakah itu mudik gratis 2024",
+      "link": "https://wartiny.github.io/baru/pengertianmudik.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Mudik",
+      "title": "Syarat Mudik Motor Gratis 2024",
+      "image": "https://2.bp.blogspot.com/-R-htzIT30oI/VZkniT_CWPI/AAAAAAAAANA/xyODnDnzksk/s1600/Gambar%2BDP%2BBBM%2BMudik%2BLebaran%2BPulang%2BKampung%2B2.png",
+      "description": "Apa saja syarat mudik motor gratis 2023",
+      "link": "https://wartiny.github.io/baru/syaratmudik.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Mudik",
+      "title": "Jadwal Mudik Gratis 2024",
+      "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/03/27/mudik-Gratis-2023-2360647234.jpg",
+      "description": "Berikut Jadwal Mudik Gratis 2024",
+      "link": "https://wartiny.github.io/baru/jadwalmudik.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Mudik",
+      "title": "Cara Daftar Mudik Gratis 2024",
+      "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/03/19/mudik-gratis-2023-2867430108.jpg",
+      "description": "Berikut syarat untuk mudik gratis 2024",
+      "link": "https://wartiny.github.io/baru/caradaftarmudik.html"
+    }
+  ]
+}
