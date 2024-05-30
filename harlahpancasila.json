@@ -25,23 +25,8 @@
   ],
      "Categories": [
     {
-      "category": "Hari Raya",
-      "image_link": "frame/idul.webp"
-
-    },
-    {
-      "category": "Hari Nasional",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
-
-    },
-    {
-      "category": "Pendidikan",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
-
-    },
-    {
-      "category": "Lainnya",
-      "image_link": "frame/ribut.webp"
+      "category": "Hari Lahir Pancasila",
+      "image_link": "https://frame.twibbonize.com/f6b978ad-82c2-49b1-abd9-b8badde77889.png"
 
     }
   ],
@@ -49,63 +34,45 @@
   "Item": [
     {
       "id": 1,
-      "category": "Hari Nasional",
-      "title": "Hari Batik Nasional",
-      "image_link": "frame/batik.webp"
+      "category": "Hari Lahir Pancasila",
+      "title": "HariLah Pancasila 1",
+      "image_link": "https://frame.twibbonize.com/f6b978ad-82c2-49b1-abd9-b8badde77889.png"
     },
     {
       "id": 2,
-      "category": "Hari Raya",
-      "title": "Idul Fitri",
-      "image_link": "frame/idul.webp"
+      "category": "Hari Lahir Pancasila",
+      "title": "HariLah Pancasila 2",
+      "image_link": "https://frame.twibbonize.com/23f2deb5-b1c5-4c1b-9a27-d57b7dc83936.png"
     },
     {
       "id": 3,
-      "category": "Pendidikan",
-      "title": "Olimpiade SAINS",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
+      "category": "Hari Lahir Pancasila",
+      "title": "HariLah Pancasila 3",
+      "image_link": "https://frame.twibbonize.com/ea32ed65-d372-4209-a4e0-f76f98f2829e.png"
     },
     {
       "id": 4,
-      "category": "Pendidikan",
-      "title": "Olimpiade Biologi",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade2.png"
+      "category": "Hari Lahir Pancasila",
+      "title": "HariLah Pancasila 4",
+      "image_link": "https://frame.twibbonize.com/d62484cf-04a8-45f6-be3b-8b5db2c6c53a.png"
     },
     {
       "id": 5,
-      "category": "Hari Nasional",
-      "title": "Hari Kebangkitan Pancasila",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
+      "category": "Hari Lahir Pancasila",
+      "title": "HariLah Pancasila 5",
+      "image_link": "https://frame.twibbonize.com/87251a93-b0d7-4c28-b9f3-23cd1c85ce67.png"
     },
     {
       "id": 6,
-      "category": "Hari Nasional",
-      "title": "Hari Sumpah Pemuda",
-      "image_link": "frame/pemuda.webp"
+      "category": "Hari Lahir Pancasila",
+      "title": "HariLah Pancasila 6",
+      "image_link": "https://frame.twibbonize.com/16e3b37b-4c88-4a6d-b634-b9f506420ce7.png"
     },
     {
       "id": 7,
-      "category": "Lainnya",
-      "title": "PKKTB 2021",
-      "image_link": "frame/pkktb.webp"
-    },
-    {
-      "id": 8,
-      "category": "Lainnya",
-      "title": "Ribut Bikin Kangen",
-      "image_link": "frame/ribut.webp"
-    },
-    {
-      "id": 9,
-      "category": "Hari Nasional",
-      "title": "Hari Santri Nasional",
-      "image_link": "frame/santri2.webp"
-    },
-    {
-      "id": 10,
-      "category": "Lainnya",
-      "title": "Ayo Divaksin",
-      "image_link": "frame/vaksin.webp"
+      "category": "Hari Lahir Pancasila",
+      "title": "HariLah Pancasila 7",
+      "image_link": "https://frame.twibbonize.com/4171f82f-8d61-4753-85fc-c56947cd011e.png"
     }
 
 
