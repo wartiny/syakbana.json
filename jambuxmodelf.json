@@ -16,52 +16,52 @@
   [
     {
       "id": 1,
-      "category":"Bis",
-      "title":"Harapan Jaya",
-      "image":"file:///android_asset/bus.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
+      "category": "Bus",
+      "title": "Elf Travel Pariwisata",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/11/01-4-1024x473.jpg",
+      "link_mods": "https://ia904709.us.archive.org/21/items/wakicawcaaw/Fe71.bussidvehicle",
+      "link_livery": "https://ia904709.us.archive.org/21/items/wakicawcaaw/Livery%20Parwis%20Elf%20MBS%20By.%20Warung%20Game.png"
     },
     {
       "id": 2,
-      "category":"Bis",
-      "title":"Livery Zentrum JB2 SHD",
-      "image":"https://aliendro.id/uploads/busid/MOD-BUSSID-JB2-SHD.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
-      "link_livery":"null"
+      "category": "Bus",
+      "title": "Elf Travel Pesona Indonesia Merah",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/11/02-3-1024x473.jpg",
+      "link_mods": "https://ia904709.us.archive.org/21/items/wakicawcaaw/Fe71.bussidvehicle",
+      "link_livery": "https://ia904709.us.archive.org/21/items/wakicawcaaw/Livery%20Elf%20FE71%20Jagat%20Raya%20Merah%20ALM.png"
     },
     {
       "id": 3,
-      "category":"Bis",
-      "title":"Bus Telolet",
-      "image":"file:///android_asset/bus3.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
-      "link_livery":"null"
+      "category": "Bus",
+      "title": "Elf Predator Full Anim",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/11/03-2-1024x473.jpg",
+      "link_mods": "https://ia904709.us.archive.org/21/items/wakicawcaaw/HINODUTRO.bussidmod",
+      "link_livery": "https://ia904709.us.archive.org/21/items/wakicawcaaw/Livery%20by%20Riandy%20khusnull.png"
     }
   ,
     {
       "id": 4,
-      "category":"Truk",
-      "title":"Truck UD Quester Bak Muat Kayu",
-      "image":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
+      "category": "Bus",
+      "title": "Elf Hiace livery haryanto",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/11/04-2-1024x473.jpg",
+      "link_mods": "https://ia904709.us.archive.org/21/items/wakicawcaaw/Hiace.bussidvehicle",
+      "link_livery": "https://ia904709.us.archive.org/21/items/wakicawcaaw/HR%20Wayang%20Hiace.png"
     } ,
     {
       "id": 5,
-      "category":"Mobil",
-      "title":"Jaguar XE SV Project 8",
-      "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
-      "link_livery":"null"
+      "category": "Bus",
+      "title": "Elf Mitsubishi Muatan karung",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/11/05-2-1024x473.jpg",
+      "link_mods": "https://ia904709.us.archive.org/21/items/wakicawcaaw/ELF%20JMC%20V1%20VERSI%20MUDIK.bussidmod",
+      "link_livery": "https://ia904709.us.archive.org/21/items/wakicawcaaw/Livery%20BUSSID%20Elf%20Full%20Muatan%20Hitam.png"
     },
     {
       "id": 6,
-      "category":"Truk",
-      "title":"Truck Oleng",
-      "image":"file:///android_asset/truck.webp",
-      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
+      "category": "Bus",
+      "title": "Elf Isuzu Muatan livery Sempati Star",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/11/06-1-1024x473.jpg",
+      "link_mods": "https://ia904709.us.archive.org/21/items/wakicawcaaw/MOD%20ISUZU%20ELF%20V2%20BY%20AZUMODS%20Full%20%20Muatan.bussidmod",
+      "link_livery": "https://ia904709.us.archive.org/21/items/wakicawcaaw/Livery%20Elf%20sempati%20star%20By.%20Warung%20Game.png"
     }
   ]
 }
