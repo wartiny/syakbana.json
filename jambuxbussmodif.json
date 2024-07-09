@@ -4,9 +4,9 @@
       "banner_id":"cecc59a9278eb458",
       "interstitial_id": "47ae35375d3e0230",
       "reward_id":"e76a2dea18be9ed7",
-      "natives_id":"null",
-      "open_app_id":"null",
-      "interval_interstitial":4,
+      "natives_id":"ec8d185131e40cff",
+      "open_app_id":"092d8a4aeedf46df",
+      "interval_interstitial":2,
       "channel_id":"9285717016", 
       "status_app": "0",
       "link_redirect": "https://"
