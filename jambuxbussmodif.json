@@ -1,11 +1,11 @@
 {
   "Ads": [
     {
-      "banner_id":"ba924c1fc44d29ac",
-      "interstitial_id": "0ee55073fd46cb13",
-      "reward_id":"d64a59befe5cef9",
-      "natives_id":"8d9bec8b94279ed6",
-      "open_app_id":"fce5b3d0bbba9df0",
+      "banner_id":"cecc59a9278eb458",
+      "interstitial_id": "47ae35375d3e0230",
+      "reward_id":"e76a2dea18be9ed7",
+      "natives_id":"null",
+      "open_app_id":"null",
       "interval_interstitial":4,
       "channel_id":"9285717016", 
       "status_app": "0",
@@ -16,52 +16,52 @@
   [
     {
       "id": 1,
-      "category":"Bis",
-      "title":"Harapan Jaya",
-      "image":"file:///android_asset/bus.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
+      "category": "Bus",    
+      "title": "JRG JB3+ Tronton Volvo B11R",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/74.jpg",
+      "link_mods": "https://ia904709.us.archive.org/21/items/wakicawcaaw/JB3%2B%20TRONTON%20VOLVO%20B11R.bussidmod",
+      "link_livery": "https://ia904709.us.archive.org/21/items/wakicawcaaw/JB3%2B%20SCANIA%20K410%20JRG%20-%20GRONK.png"
     },
     {
       "id": 2,
-      "category":"Bis",
-      "title":"Livery Zentrum JB2 SHD",
-      "image":"https://aliendro.id/uploads/busid/MOD-BUSSID-JB2-SHD.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
-      "link_livery":"null"
+      "category": "Bus",
+      "title": "Nafit Trans JB5 Hino",
+      "image": "https://iili.io/JqhSbhG.jpg",
+      "link_mods": "https://ia800505.us.archive.org/15/items/awmakanosika/JB5%20VAR%20HINO.bussidmod",
+      "link_livery": "https://mapes.maybusid.my.id/mod/liv/NAFIT%20TRANS%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png"
     },
     {
       "id": 3,
-      "category":"Bis",
-      "title":"Bus Telolet",
-      "image":"file:///android_asset/bus3.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
-      "link_livery":"null"
+      "category": "Bus",
+      "title": "Subur Jaya JB5 Hino",
+      "image": "https://iili.io/JqhSZpn.jpg",
+      "link_mods": "https://ia800505.us.archive.org/15/items/awmakanosika/JB5%20VAR%20HINO.bussidmod",
+      "link_livery": "https://mapes.maybusid.my.id/mod/liv/SUBUR%20JAYA%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png"
     }
   ,
     {
       "id": 4,
-      "category":"Truk",
-      "title":"Truck UD Quester Bak Muat Kayu",
-      "image":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
+      "category": "Bus",
+      "title": "27 Trans JB5 Hino",
+      "image": "https://iili.io/JHvJb2V.jpg",
+      "link_mods": "https://ia800505.us.archive.org/15/items/awmakanosika/JB5%20VAR%20HINO.bussidmod",
+      "link_livery": "https://rame1.maybusid.my.id/mod/liv/27%20TRANS%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png"
     } ,
     {
       "id": 5,
-      "category":"Mobil",
-      "title":"Jaguar XE SV Project 8",
-      "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
-      "link_livery":"null"
+      "category":"Bus",
+      "title": "Mahendra JB5 Hino",
+      "image": "https://iili.io/JHvduCG.jpg",
+      "link_mods": "https://ia800505.us.archive.org/15/items/awmakanosika/JB5%20VAR%20HINO.bussidmod",
+      "link_livery": "https://rame1.maybusid.my.id/mod/liv/MAHENDRA%20TRANSPORT%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png"
     },
     {
       "id": 6,
-      "category":"Truk",
-      "title":"Truck Oleng",
-      "image":"file:///android_asset/truck.webp",
-      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
+      "category": "Bus",
+      "title": "Sinar Jaya JB5 Hino",
+      "image": "https://iili.io/JHvdBYN.jpg",
+      "link_mods": "https://ia800505.us.archive.org/15/items/awmakanosika/JB5%20VAR%20HINO.bussidmod",
+      "link_livery": "https://rame1.maybusid.my.id/mod/liv/SINAR%20JAYA%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png"
     }
   ]
 }
