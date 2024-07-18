@@ -29,21 +29,9 @@
 	"More": [
 		{
 			"id": 1,
-			"title": "Lapak Asik BPJSTKU",
-			"image": "https://play-lh.googleusercontent.com/b57l9KvMs3OCdbNahKRmE98DE8TxxNiYP3q_4vfgditELcOndANmBQAc3oyPGwg-Icc=w240-h480-rw",
-			"link": "https://play.google.com/store/apps/details?id=com.syakbana.lapakasik.ceksaldobpjstk&hl=id&gl=US"
-		},
-		{
-			"id": 2,
-			"title": "Koi Fish Live Wallpaper",
-			"image": "https://play-lh.googleusercontent.com/67t94B5vdLFtxfcYG1GkQb-hqx94xP2Hterm6U6GIr6mdNoGGpTcdeQwZU-kViUpkRc=w240-h480-rw",
-			"link": "https://play.google.com/store/apps/details?id=com.koipond.koifish.livewallpaper&hl=id&gl=US"
-		},
-		{
-			"id": 3,
-			"title": "Magic 5 Wallpaper",
-			"image": "https://play-lh.googleusercontent.com/92aQEffsB0SjqgkyBIXmMm4mt6bN6I6UEW5O02U2l5Ozyb7PgNhILjXEzyuodJQsUQ=w240-h480-rw",
-			"link": "https://play.google.com/store/apps/details?id=com.syakbana.wallpaper.magic5&hl=id&gl=US"
+			"title": "Null",
+			"image": "null",
+			"link": "null"
 		}
 	],
 	"Categories": [
