@@ -51,32 +51,32 @@
   ],
   "Mods": [
     {
-      "title": "SR3 XHD Prime Ultimate Mercy 1836 by MN Art x KP Projects",
-      "image": "file:///android_asset/Prime.webp",
-      "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Prime.bussidmod",
-      "name_livery": "PO Haryanto",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Haryanto.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
+      "title": "AEROX HEDON MODIF PROPER",
+      "image": "https://files.libertycity.net/download/gtasaios_motorcycle/thumbs/2023-08/vario-x-aerox-hedon_1691956436_136250.jpg",
+      "category": "Motor",
+      "link_mods": "https://ia601200.us.archive.org/22/items/mtrunksi/AEROX%20HEDON%20MODIF%20PROPER%20BY%20%20REGA%20X%20GAMING.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
-      "title": "Mercedes-Benz 1521 AC by Faridh Madyawan",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.webp",
-      "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.bussidmod",
-      "name_livery": "Rajawali",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rajawali.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
+      "title": "Aerox 155cc Standar",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCKoX-8A8zID14rsbLUPTzxsbsc1IbmdSqAw&s",
+      "category": "Motor",
+      "link_mods": "https://ia601200.us.archive.org/22/items/mtrunksi/Yamaha%20Aerox%20155cc%20Standar%20by%20AzuMods.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
-      "title": "SR3 XHD Prime Ultimate by MN Art x BFC",
-      "image": "file:///android_asset/Ultimate.webp",
-      "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/SR3.bussidmod",
-      "name_livery": "Rosalia Indah",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rosalia.png",
+      "title": "Aerox 155cc Wheelie",
+      "image": "https://img.gta5-mods.com/q95/images/yamaha-aerox-155-connected-2023-add-on-tuning-template/97e858-rsz_gta5_2023-09-07_13-35-33.jpg",
+      "category": "Motor",
+      "link_mods": "https://ia601200.us.archive.org/22/items/mtrunksi/Yamaha%20Aerox%20155cc%20Wheelie%20by%20AzuMods.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     },
@@ -156,83 +156,12 @@
       "title_mp3": "Pujian Hasbunallah Wa Ni'mal Wakil",
       "name": "Santri Njoso",
       "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/hasbunallah.mp3"
-    },
-    {
-      "title_mp3": "Al'Itiraf - Sebuah pengakuan",
-      "name": "Alfina Nindiyani",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/altiraf.mp3"
-    },
-    {
-      "title_mp3": "Do'a Rajab",
-      "name": "Alfina Nindiyani",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rajab.mp3"
-    },
-    {
-      "title_mp3": "Allahul kaafi",
-      "name": "Bebiraira Channel",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/Allahul kaafi.mp3"
-    },
-    {
-      "title_mp3": "Rindu Madinah Cover By Umar Razeeq ft Mujib",
-      "name": "Shatibiyyah Studio",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rindu.mp3"
-    },
-    {
-      "title_mp3": "Train Horn",
-      "name": "Zedge",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/train_horn.mp3"
-    },
-    {
-      "title_mp3": "Dixie Horn",
-      "name": "Zedge",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/dixie_horn.mp3"
-    },
-    {
-      "title_mp3": "Clown Horn",
-      "name": "Zedge",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/clown_horn.mp3"
     }
   ],
   "Radio": [
     {
       "title_radio": "Rodja 756 AM",
       "url_radio": "https://radioislamindonesia.com/rodja.mp3?_=2"
-    },
-    {
-      "title_radio": "Suara Al-Iman 846 AM",
-      "url_radio": "https://radioislamindonesia.com/aliman.mp3"
-    },
-    {
-      "title_radio": "Tarbiyah Sunnah 1476 AM",
-      "url_radio": "https://radioislamindonesia.com/tarbiyah.mp3"
-    },
-    {
-      "title_radio": "kalam FM 100.6 Mhz",
-      "url_radio": "https://radioislamindonesia.com/idzaatulkhair.mp3"
-    },
-    {
-      "title_radio": "Mutiara Qu'an 1170 am",
-      "url_radio": "https://radioislamindonesia.com/mutiaraquran.mp3"
-    },
-    {
-      "title_radio": "Hidayah 103,4 FM",
-      "url_radio": "https://radioislamindonesia.com/radiohidayah.mp3"
-    },
-    {
-      "title_radio": "Madinah FM 107,7 Mhz",
-      "url_radio": "https://radioislamindonesia.com/radiomadinah.mp3"
-    },
-    {
-      "title_radio": "Muadz 94.3 FM",
-      "url_radio": "https://radioislamindonesia.com/radiomuadz.mp3"
-    },
-    {
-      "title_radio": "Shahabat Muslim 107.7 FM",
-      "url_radio": "https://radioislamindonesia.com/shahabatmuslim.mp3"
-    },
-    {
-      "title_radio": "SKN Al-Bayaan 95 FM",
-      "url_radio": "https://server-s5.xajist.com/sslstream/8526/"
     }
   ]
 }
