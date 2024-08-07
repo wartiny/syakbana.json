@@ -2,13 +2,13 @@
   "Ads": [
     {
       "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads":"STARTAPP",
+      "select_backup_ads":"ADMOB",
       "main_ads_banner": "5469b5aa8b2c1557",
       "main_ads_intertitial":"b87d5493b0bc60b2",
       "main_ads_natives":"fd01cb30653dbb00",
-      "backup_ads_natives":"null",
-      "backup_ads_banner":"null",
-      "backup_ads_intertitial":"null",
+      "backup_ads_natives":"ca-app-pub-6578819666203469/9224572413",
+      "backup_ads_banner":"ca-app-pub-6578819666203469/9105152917",
+      "backup_ads_intertitial":"ca-app-pub-6578819666203469/3846324476",
       "open_app_ads":"3027cc98b3f442d5",
       "interval_intertitial": 1,
       "initialize_sdk":"206128118",
