@@ -10,7 +10,7 @@
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "open_app_ads":"",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -34,119 +34,120 @@
       "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
     },
     {
-      "name_map": "Jalur Bukit, Hutan dan Berkelok v3 by Aliyan GMP",
-      "view_map": "file:///android_asset/berkelok.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
+      "name_map": "Maps Pagar Alam",
+      "view_map": "https://iili.io/HDzpR71.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/map/update%20textru%20map%20pagaralam%20part3.bussidmod"
     },
     {
-      "name_map": "Bukit Bintang (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/bukit.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
+      "name_map": "Maps Nuansa Pegunungan",
+      "view_map": "https://iili.io/HDzDCzv.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/map/mod%20map%20nuansa%20pegunungan%20v1%20aliyan%20gmp.bussidmod"
     },
     {
-      "name_map": "Poris – Pemalang v1 by Fergiawan CH",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.webp",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
+      "name_map": "Map Kota Mati",
+      "view_map": "https://iili.io/H6jjysj.jpg",
+      "map_url": "https://mod3n.maybusid.my.id/mod/map/MOD%20MAP%20KOTA%20MATI%20ALIYAN%20GMP.bussidmod"
+    },
+    {
+      "name_map": "Map Blusukan Konstruksi",
+      "view_map": "https://iili.io/HrRDBYG.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/map/mod%20map%20blusukan%20aliyan%20gmp%20contruksi.bussidmod"
+    },
+    {
+      "name_map": "Map Puncak Offroad",
+      "view_map": "https://iili.io/HrRD3Bt.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/db/mod/Map%20Puncak%20Offroad.bussidmod"
     }
   ],
   "Mods": [
     {
-      "title": "SR3 XHD Prime Ultimate Mercy 1836 by MN Art x KP Projects",
-      "image": "file:///android_asset/Prime.webp",
-      "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Prime.bussidmod",
-      "name_livery": "PO Haryanto",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Haryanto.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
+      "title": "Mahendra JB5 Hino",
+      "image": "https://iili.io/JHvduCG.jpg",
+      "category": "JetBus",
+      "link_mods": "https://ia800505.us.archive.org/15/items/awmakanosika/JB5%20VAR%20HINO.bussidmod",
+      "name_livery": "Mahendra",
+      "link_livery": "https://rame1.maybusid.my.id/mod/liv/MAHENDRA%20TRANSPORT%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
+
     {
-      "title": "Mercedes-Benz 1521 AC by Faridh Madyawan",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.webp",
-      "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.bussidmod",
-      "name_livery": "Rajawali",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rajawali.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
-    },
-    {
-      "title": "SR3 XHD Prime Ultimate by MN Art x BFC",
-      "image": "file:///android_asset/Ultimate.webp",
-      "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/SR3.bussidmod",
-      "name_livery": "Rosalia Indah",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rosalia.png",
+      "title": "Sinar Jaya JB5 Hino",
+      "image": "https://iili.io/JHvdBYN.jpg",
+      "category": "JetBus",
+      "link_mods": "https://ia800505.us.archive.org/15/items/awmakanosika/JB5%20VAR%20HINO.bussidmod",
+      "name_livery": "Sinar Jaya",
+      "link_livery": "https://rame1.maybusid.my.id/mod/liv/SINAR%20JAYA%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "Canter Ghaisan by Andry Azhari",
-      "image": "file:///android_asset/Ghaisan.webp",
-      "category": "Truk",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.bussidmod",
-      "name_livery": "Rosalia",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Restollia.png",
-      "name_livery2": "Ghaisan",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.png"
+      "title": "27 Trans JB5 Hino",
+      "image": "https://iili.io/JHvJb2V.jpg",
+      "category": "JetBus",
+      "link_mods": "https://ia800505.us.archive.org/15/items/awmakanosika/JB5%20VAR%20HINO.bussidmod",
+      "name_livery": "Trans JB5",
+      "link_livery": "https://rame1.maybusid.my.id/mod/liv/27%20TRANS%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
-      "title": "Truck Isuzu Deca Bak Dropside by SJA Official",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.webp",
-      "category": "Truk",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.bussidmod",
-      "name_livery": "Deca Bak V1",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak1.png",
-      "name_livery2": "Deca Bak V2",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak2.png"
+      "title": "Subur Jaya JB5 Hino",
+      "image": "https://iili.io/JqhSZpn.jpg",
+      "category": "JetBus",
+      "link_mods": "https://ia800505.us.archive.org/15/items/awmakanosika/JB5%20VAR%20HINO.bussidmod",
+      "name_livery": "Subur Jaya",
+      "link_livery": "https://mapes.maybusid.my.id/mod/liv/SUBUR%20JAYA%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
     },
     {
-      "title": "Nissan Skyline GT-R R34 Paul Walker by NGR cvt MAH",
-      "image": "file:///android_asset/Skyline.webp",
-      "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.bussidmod",
+      "title": "Nafit Trans JB5 Hino",
+      "image": "https://iili.io/JqhSbhG.jpg",
+      "category": "JetBus",
+      "link_mods": "https://ia800505.us.archive.org/15/items/awmakanosika/JB5%20VAR%20HINO.bussidmod",
+      "name_livery": "Trans JB5",
+      "link_livery": "https://mapes.maybusid.my.id/mod/liv/NAFIT%20TRANS%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "JRG JB2+ Tronton Scania K410IB",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/73.jpg",
+      "category": "JetBus",
+      "link_mods": "https://ia904709.us.archive.org/21/items/wakicawcaaw/JB2%20TRONTON%20SCANIA%20K410IB%20SHARE%20BY%20JODS%20TV.bussidmod",
       "name_livery": "null",
       "link_livery": "null",
+       "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "JRG JB3+ Tronton Volvo B11R",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/74.jpg",
+       "category": "JetBus",
+      "link_mods": "https://ia904709.us.archive.org/21/items/wakicawcaaw/JB3%2B%20TRONTON%20VOLVO%20B11R.bussidmod",
+      "name_livery": "Tronton Volvo",
+      "link_livery": "https://ia904709.us.archive.org/21/items/wakicawcaaw/JB3%2B%20SCANIA%20K410%20JRG%20-%20GRONK.png",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "Mobil BMW M4 DTM 2017 by tudhsbf123 YN cvt MAH",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/BMW M4.webp",
-      "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/BMW M4.bussidmod",
-      "name_livery": "null",
-      "link_livery": "null",
+      "title": "JRG JB3+ SHD Hino RK",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/75.jpg",
+      "category": "JetBus",
+      "link_mods": "https://ia904709.us.archive.org/21/items/wakicawcaaw/JB3%2B%20SHD%20HINO%20RK.bussidmod",
+      "name_livery": "JRG JB3",
+      "link_livery": "https://ia904709.us.archive.org/21/items/wakicawcaaw/HINO%20UPDATE%20AF%20JRG%20-%20GRONK.png",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "Hot Wheels Bone Shaker by Naufel cvt MAH",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.webp",
-      "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.bussidmod",
-      "name_livery": "null",
-      "link_livery": "null",
-      "name_livery2": "null",
-      "link_livery2": "null"
-    },
-    {
-      "title": "Porsche 918 Spyder by nineIV cvt MAH Channel",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.jpg",
-      "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.bussidmod",
-      "name_livery": "null",
-      "link_livery": "null",
-      "name_livery2": "null",
-      "link_livery2": "null"
-    },
-    {
-      "title": "Truck Perkasa Tangki by Ade Iskandar",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
-      "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.bussidmod",
-      "name_livery": "Pertamina",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
+      "title": "JRG K410 SG",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/76.jpg",
+      "category": "JetBus",
+      "link_mods": "https://ia904709.us.archive.org/21/items/wakicawcaaw/K410%20SG.bussidmod",
+      "name_livery": "JRG",
+      "link_livery": "https://ia904709.us.archive.org/21/items/wakicawcaaw/JRG%20Single%20Glass%20by%20Blahbloh.png",
       "name_livery2": "null",
       "link_livery2": "null"
     }
@@ -156,83 +157,12 @@
       "title_mp3": "Pujian Hasbunallah Wa Ni'mal Wakil",
       "name": "Santri Njoso",
       "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/hasbunallah.mp3"
-    },
-    {
-      "title_mp3": "Al'Itiraf - Sebuah pengakuan",
-      "name": "Alfina Nindiyani",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/altiraf.mp3"
-    },
-    {
-      "title_mp3": "Do'a Rajab",
-      "name": "Alfina Nindiyani",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rajab.mp3"
-    },
-    {
-      "title_mp3": "Allahul kaafi",
-      "name": "Bebiraira Channel",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/Allahul kaafi.mp3"
-    },
-    {
-      "title_mp3": "Rindu Madinah Cover By Umar Razeeq ft Mujib",
-      "name": "Shatibiyyah Studio",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rindu.mp3"
-    },
-    {
-      "title_mp3": "Train Horn",
-      "name": "Zedge",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/train_horn.mp3"
-    },
-    {
-      "title_mp3": "Dixie Horn",
-      "name": "Zedge",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/dixie_horn.mp3"
-    },
-    {
-      "title_mp3": "Clown Horn",
-      "name": "Zedge",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/clown_horn.mp3"
     }
   ],
   "Radio": [
     {
       "title_radio": "Rodja 756 AM",
       "url_radio": "https://radioislamindonesia.com/rodja.mp3?_=2"
-    },
-    {
-      "title_radio": "Suara Al-Iman 846 AM",
-      "url_radio": "https://radioislamindonesia.com/aliman.mp3"
-    },
-    {
-      "title_radio": "Tarbiyah Sunnah 1476 AM",
-      "url_radio": "https://radioislamindonesia.com/tarbiyah.mp3"
-    },
-    {
-      "title_radio": "kalam FM 100.6 Mhz",
-      "url_radio": "https://radioislamindonesia.com/idzaatulkhair.mp3"
-    },
-    {
-      "title_radio": "Mutiara Qu'an 1170 am",
-      "url_radio": "https://radioislamindonesia.com/mutiaraquran.mp3"
-    },
-    {
-      "title_radio": "Hidayah 103,4 FM",
-      "url_radio": "https://radioislamindonesia.com/radiohidayah.mp3"
-    },
-    {
-      "title_radio": "Madinah FM 107,7 Mhz",
-      "url_radio": "https://radioislamindonesia.com/radiomadinah.mp3"
-    },
-    {
-      "title_radio": "Muadz 94.3 FM",
-      "url_radio": "https://radioislamindonesia.com/radiomuadz.mp3"
-    },
-    {
-      "title_radio": "Shahabat Muslim 107.7 FM",
-      "url_radio": "https://radioislamindonesia.com/shahabatmuslim.mp3"
-    },
-    {
-      "title_radio": "SKN Al-Bayaan 95 FM",
-      "url_radio": "https://server-s5.xajist.com/sslstream/8526/"
     }
   ]
 }
