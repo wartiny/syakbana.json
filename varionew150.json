@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "STARTAPP",
       "select_backup_ads":"UNITY",
       "main_ads_banner": "ca-app-pub-6578819666203469/9589034925",
       "main_ads_intertitial":"ca-app-pub-6578819666203469/8224553188",
