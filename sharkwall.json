@@ -1,0 +1,35 @@
+{
+  "DATA_WALLPAPER": [
+    {
+      "title_wallpaper": "Shark 07",
+      "type_wallpaper": "GIF",
+      "preview_image": "https://codegith.com/public/demo/livewall/river2.gif"
+    },
+    {
+      "title_wallpaper": "Shark 08",
+      "type_wallpaper": "GIF",
+      "preview_image": "https://codegith.com/public/demo/livewall/Shark.gif"
+    },
+    {
+      "title_wallpaper": "Shark 09",
+      "type_wallpaper": "MP4",
+      "preview_image": "https://v1.pinimg.com/videos/mc/720p/fb/5e/7a/fb5e7a6df4edabc978433c0bdd3c21c1.mp4"
+    },
+    {
+      "title_wallpaper": "Shark 04",
+      "type_wallpaper": "MP4",
+      "preview_image": "https://v1.pinimg.com/videos/mc/720p/74/20/b3/7420b39d160f6076fad507c130e72d97.mp4"
+    },
+    {
+      "title_wallpaper": "Shark 06",
+      "type_wallpaper": "MP4",
+      "preview_image": "https://v1.pinimg.com/videos/mc/expMp4/20/90/6f/20906fad49c694289d43b16928698db2_t1.mp4"
+    },
+    {
+      "title_wallpaper": "Shark 02",
+      "type_wallpaper": "MP4",
+      "preview_image": "https://v1.pinimg.com/videos/mc/expMp4/ed/3e/00/ed3e001c95527b1a49fbff87d540148d_t1.mp4"
+    }
+  ]
+}
+
