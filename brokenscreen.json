@@ -1,0 +1,45 @@
+{
+  "DATA_WALLPAPER": [
+    {
+      "title_wallpaper": "Screen 1",
+      "type_wallpaper": "GIF",
+      "preview_image": "https://i.pinimg.com/564x/cb/80/4d/cb804d05183eb0022d4f768e942acced.jpg"
+    },
+    {
+      "title_wallpaper": "Screen 2",
+      "type_wallpaper": "GIF",
+      "preview_image": "https://i.pinimg.com/564x/5d/56/06/5d5606b9fcef61621b91d52cfe1cbc5d.jpg"
+    },
+    {
+      "title_wallpaper": "Screen 3",
+      "type_wallpaper": "GIF",
+      "preview_image": "https://i.pinimg.com/564x/dc/f0/15/dcf015cf5ede95a6be4b261751fb1de0.jpg"
+    },
+    {
+      "title_wallpaper": "Screen 4",
+      "type_wallpaper": "GIF",
+      "preview_image": "https://i.pinimg.com/564x/61/ac/be/61acbe4f0816433c4e28d195af47842b.jpg"
+    },
+    {
+      "title_wallpaper": "Screen 5",
+      "type_wallpaper": "GIF",
+      "preview_image": "https://i.pinimg.com/564x/f9/3e/fd/f93efdf61de38921bf74a9dd3ce55e46.jpg"
+    },
+    {
+      "title_wallpaper": "Screen 6",
+      "type_wallpaper": "GIF",
+      "preview_image": "https://i.pinimg.com/564x/af/2e/4a/af2e4a6a5c055978d824940ddb343c2b.jpg"
+    },
+    {
+      "title_wallpaper": "Screen 7",
+      "type_wallpaper": "GIF",
+      "preview_image": "https://i.pinimg.com/564x/3a/6e/13/3a6e13f2e998e1afe1029410b425f24a.jpg"
+    },
+    {
+      "title_wallpaper": "Screen 8",
+      "type_wallpaper": "GIF",
+      "preview_image": "https://i.pinimg.com/564x/70/f8/ba/70f8ba650e5a94846cd3bc8dbd23a033.jpg"
+    }
+  ]
+}
+
