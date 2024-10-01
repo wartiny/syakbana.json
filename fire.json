@@ -1,0 +1,35 @@
+{
+  "DATA_WALLPAPER": [
+    {
+      "title_wallpaper": "Waterfall 02",
+      "type_wallpaper": "GIF",
+      "preview_image": "https://codegith.com/public/demo/livewall/river2.gif"
+    },
+    {
+      "title_wallpaper": "Waterfall 01",
+      "type_wallpaper": "GIF",
+      "preview_image": "https://codegith.com/public/demo/livewall/waterfall.gif"
+    },
+    {
+      "title_wallpaper": "Beach 01",
+      "type_wallpaper": "MP4",
+      "preview_image": "https://codegith.com/public/demo/livewall/palm.mp4"
+    },
+    {
+      "title_wallpaper": "Beach 02",
+      "type_wallpaper": "MP4",
+      "preview_image": "https://codegith.com/public/demo/livewall/frog2.mp4"
+    },
+    {
+      "title_wallpaper": "Winter 01",
+      "type_wallpaper": "MP4",
+      "preview_image": "https://codegith.com/public/demo/livewall/blueink.mp4"
+    },
+    {
+      "title_wallpaper": "Winter 02",
+      "type_wallpaper": "MP4",
+      "preview_image": "https://codegith.com/public/demo/livewall/flower.mp4"
+    }
+  ]
+}
+
