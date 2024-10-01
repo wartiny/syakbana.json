@@ -1,34 +1,34 @@
 {
   "DATA_WALLPAPER": [
     {
-      "title_wallpaper": "Waterfall 02",
-      "type_wallpaper": "GIF",
-      "preview_image": "https://codegith.com/public/demo/livewall/river2.gif"
-    },
-    {
-      "title_wallpaper": "Waterfall 01",
-      "type_wallpaper": "GIF",
-      "preview_image": "https://codegith.com/public/demo/livewall/waterfall.gif"
-    },
-    {
-      "title_wallpaper": "Beach 01",
+      "title_wallpaper": "Fire 02",
       "type_wallpaper": "MP4",
-      "preview_image": "https://codegith.com/public/demo/livewall/palm.mp4"
+      "preview_image": "https://v1.pinimg.com/videos/mc/expMp4/25/0b/ea/250bea1ea4bacc931c9b0dd69feeb380_t1.mp4"
     },
     {
-      "title_wallpaper": "Beach 02",
+      "title_wallpaper": "Fire 03",
       "type_wallpaper": "MP4",
-      "preview_image": "https://codegith.com/public/demo/livewall/frog2.mp4"
+      "preview_image": "https://v1.pinimg.com/videos/iht/720p/4d/75/52/4d7552a4c0a7d6378a86ae8cad0ea8b3.mp4"
     },
     {
-      "title_wallpaper": "Winter 01",
+      "title_wallpaper": "Fire 04",
       "type_wallpaper": "MP4",
-      "preview_image": "https://codegith.com/public/demo/livewall/blueink.mp4"
+      "preview_image": "https://v1.pinimg.com/videos/mc/expMp4/02/f6/37/02f637b57f64ab787c8b88be18f2eccd_t1.mp4"
     },
     {
-      "title_wallpaper": "Winter 02",
+      "title_wallpaper": "Fire 05",
       "type_wallpaper": "MP4",
-      "preview_image": "https://codegith.com/public/demo/livewall/flower.mp4"
+      "preview_image": "https://v1.pinimg.com/videos/mc/expMp4/b2/b4/a3/b2b4a39afcac7fdd99590da0695e3214_t1.mp4"
+    },
+    {
+      "title_wallpaper": "Fire 06",
+      "type_wallpaper": "MP4",
+      "preview_image": "https://v1.pinimg.com/videos/mc/expMp4/66/35/44/66354423e17c930e188d4c5332e943b2_t1.mp4"
+    },
+    {
+      "title_wallpaper": "Fire 07",
+      "type_wallpaper": "MP4",
+      "preview_image": "https://v1.pinimg.com/videos/mc/720p/4e/7f/da/4e7fdaf0b24ed9bec947b19688f881c4.mp4"
     }
   ]
 }
