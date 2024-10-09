@@ -1,0 +1,193 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"UNITY",
+      "main_ads_banner": "ca-app-pub-6578819666203469/9589034925",
+      "main_ads_intertitial":"ca-app-pub-6578819666203469/8224553188",
+      "main_ads_natives":"ca-app-pub-6578819666203469/5350977831",
+      "backup_ads_natives":"null",
+      "backup_ads_banner":"Banner_Android",
+      "backup_ads_intertitial":"Interstitial_Android",
+      "open_app_ads":"null",
+      "interval_intertitial": 1,
+      "initialize_sdk":"206425713",
+      "initialize_sdk_backup_ads":"5668267",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Maps": [
+    {
+      "name_map": "Poris – Pemalang v1 by Fergiawan CH",
+      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
+    },
+    {
+      "name_map": "Bukit Bintang (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
+      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/bukit.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
+    },
+    {
+      "name_map": "Jalur Bukit, Hutan dan Berkelok v3 by Aliyan GMP",
+      "view_map": "file:///android_asset/berkelok.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
+    },
+    {
+      "name_map": "Kelok 18 by Aliyan GMP",
+      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
+    }
+  ],
+  "Mods": [
+    {
+      "title": "VARIO 150 MODIF",
+      "image": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/04/09/mod-xtreme-motorbikes-vario-150-358751297.png",
+      "category": "Motor",
+      "link_mods": "https://mapes.maybusid.my.id/mod/mtr/VARIO%20150%20PROPER%20MODIF%20HEDON%20BY%20REGA%20X%20GAMING.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "AEROX MODIF",
+      "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2020/10/SGCA_IMG-6132.jpg",
+      "category": "Motor",
+      "link_mods": "https://mapes.maybusid.my.id/mod/mtr/AEROX%20HEDON%20MODIF%20PROPER%20BY%20%20REGA%20X%20GAMING.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Kawasaki Ninja H2R",
+      "image": "https://www.gtainside.com/downloads/picr/2021-05/1620996259_Gta%20Sa%20Screenshot%202021.05.14%20-%2015.21.01.44.jpg",
+      "category": "Motor",
+      "link_mods": "https://mapes.maybusid.my.id/mod/mtr/782_Kawasaki_Ninja_H2R.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "762 Honda CBR 1000RR",
+      "image": "https://img.gta5-mods.com/q75/images/honda-cbr1000rr-motors-garage-razor/85bbfb-BXXBNRH.jpg",
+      "category": "Motor",
+      "link_mods": "https://mapes.maybusid.my.id/mod/mtr/762_Honda_CBR_1000RR.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "MOD Yamah MX",
+      "image": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/06/09/cheat-asian-drag-champion-4156548213.jpg",
+      "category": "Motor",
+      "link_mods": "https://mapes.maybusid.my.id/mod/mtr/MOD%20MX%20SENGKUNI%20BY%20REGA%20X%20GAMING.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Honda CB",
+      "image": "https://img.gta5-mods.com/q95/images/honda-cb-1800-cafe-racer/9c10b5-GTA5%202015-09-19%2016-09-53.jpg",
+      "category": "Motor",
+      "link_mods": "https://mapes.maybusid.my.id/mod/mtr/790_Honda_CB_Koko_Krunch.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    }
+  ],
+  "Audio": [
+    {
+      "title_mp3": "Pujian Hasbunallah Wa Ni'mal Wakil",
+      "name": "Santri Njoso",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/hasbunallah.mp3"
+    },
+    {
+      "title_mp3": "Al'Itiraf - Sebuah pengakuan",
+      "name": "Alfina Nindiyani",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/altiraf.mp3"
+    },
+    {
+      "title_mp3": "Do'a Rajab",
+      "name": "Alfina Nindiyani",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rajab.mp3"
+    },
+    {
+      "title_mp3": "Allahul kaafi",
+      "name": "Bebiraira Channel",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/Allahul kaafi.mp3"
+    },
+    {
+      "title_mp3": "Rindu Madinah Cover By Umar Razeeq ft Mujib",
+      "name": "Shatibiyyah Studio",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rindu.mp3"
+    },
+    {
+      "title_mp3": "Train Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/train_horn.mp3"
+    },
+    {
+      "title_mp3": "Dixie Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/dixie_horn.mp3"
+    },
+    {
+      "title_mp3": "Clown Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/clown_horn.mp3"
+    }
+  ],
+  "Radio": [
+    {
+      "title_radio": "Rodja 756 AM",
+      "url_radio": "https://radioislamindonesia.com/rodja.mp3?_=2"
+    },
+    {
+      "title_radio": "Suara Al-Iman 846 AM",
+      "url_radio": "https://radioislamindonesia.com/aliman.mp3"
+    },
+    {
+      "title_radio": "Tarbiyah Sunnah 1476 AM",
+      "url_radio": "https://radioislamindonesia.com/tarbiyah.mp3"
+    },
+    {
+      "title_radio": "kalam FM 100.6 Mhz",
+      "url_radio": "https://radioislamindonesia.com/idzaatulkhair.mp3"
+    },
+    {
+      "title_radio": "Mutiara Qu'an 1170 am",
+      "url_radio": "https://radioislamindonesia.com/mutiaraquran.mp3"
+    },
+    {
+      "title_radio": "Hidayah 103,4 FM",
+      "url_radio": "https://radioislamindonesia.com/radiohidayah.mp3"
+    },
+    {
+      "title_radio": "Madinah FM 107,7 Mhz",
+      "url_radio": "https://radioislamindonesia.com/radiomadinah.mp3"
+    },
+    {
+      "title_radio": "Muadz 94.3 FM",
+      "url_radio": "https://radioislamindonesia.com/radiomuadz.mp3"
+    },
+    {
+      "title_radio": "Shahabat Muslim 107.7 FM",
+      "url_radio": "https://radioislamindonesia.com/shahabatmuslim.mp3"
+    },
+    {
+      "title_radio": "SKN Al-Bayaan 95 FM",
+      "url_radio": "https://server-s5.xajist.com/sslstream/8526/"
+    }
+  ]
+}
