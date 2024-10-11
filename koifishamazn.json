@@ -1,34 +1,34 @@
 {
   "DATA_WALLPAPER": [
     {
-      "title_wallpaper": "Waterfall 02",
-      "type_wallpaper": "GIF",
-      "preview_image": "https://codegith.com/public/demo/livewall/river2.gif"
-    },
-    {
-      "title_wallpaper": "Waterfall 01",
-      "type_wallpaper": "GIF",
-      "preview_image": "https://codegith.com/public/demo/livewall/waterfall.gif"
-    },
-    {
-      "title_wallpaper": "Beach 01",
+      "title_wallpaper": "Koi Fish Live 1",
       "type_wallpaper": "MP4",
-      "preview_image": "https://codegith.com/public/demo/livewall/palm.mp4"
+      "preview_image": "https://archive.org/download/koifish4/koifish.mp4"
     },
     {
-      "title_wallpaper": "Beach 02",
+      "title_wallpaper": "Koi Fish Live 2",
       "type_wallpaper": "MP4",
-      "preview_image": "https://codegith.com/public/demo/livewall/frog2.mp4"
+      "preview_image": "https://archive.org/download/koifish4/koifish1.mp4"
     },
     {
-      "title_wallpaper": "Winter 01",
+      "title_wallpaper": "Koi Fish Live 3",
       "type_wallpaper": "MP4",
-      "preview_image": "https://codegith.com/public/demo/livewall/blueink.mp4"
+      "preview_image": "https://archive.org/download/koifish4/koifish2.mp4"
     },
     {
-      "title_wallpaper": "Winter 02",
+      "title_wallpaper": "Koi Fish Live 4",
       "type_wallpaper": "MP4",
-      "preview_image": "https://codegith.com/public/demo/livewall/flower.mp4"
+      "preview_image": "https://archive.org/download/koifish4/koifish3.mp4"
+    },
+    {
+      "title_wallpaper": "Koi Fish Live 5",
+      "type_wallpaper": "MP4",
+      "preview_image": "https://archive.org/download/koifish4/koifish4.mp4"
+    },
+    {
+      "title_wallpaper": "Koi Fish Live 6",
+      "type_wallpaper": "MP4",
+      "preview_image": "https://archive.org/download/koifish4/koifish5.mp4"
     }
   ]
 }
