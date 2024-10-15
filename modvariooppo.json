@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "STARTAPP",
       "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-6578819666203469/2695528327x",
       "main_ads_intertitial":"ca-app-pub-6578819666203469/5261981918x",
@@ -11,8 +11,8 @@
       "backup_ads_intertitial":"518cd97722c60b52",
       "open_app_ads":"ca-app-pub-6578819666203469/1430649740",
       "interval_intertitial": 1,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"107355779",
+      "initialize_sdk":"209249773",
+      "initialize_sdk_backup_ads":"209249773",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
