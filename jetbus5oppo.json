@@ -1,0 +1,168 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_app_ads":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Maps": [
+    {
+      "name_map": "Tol Trans Jawa v2 by X Play Kembar",
+      "view_map": "file:///android_asset/tol.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+    },
+    {
+      "name_map": "Kelok 18 by Aliyan GMP",
+      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
+    },
+    {
+      "name_map": "Maps Pagar Alam",
+      "view_map": "https://iili.io/HDzpR71.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/map/update%20textru%20map%20pagaralam%20part3.bussidmod"
+    },
+    {
+      "name_map": "Maps Nuansa Pegunungan",
+      "view_map": "https://iili.io/HDzDCzv.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/map/mod%20map%20nuansa%20pegunungan%20v1%20aliyan%20gmp.bussidmod"
+    },
+    {
+      "name_map": "Map Kota Mati",
+      "view_map": "https://iili.io/H6jjysj.jpg",
+      "map_url": "https://mod3n.maybusid.my.id/mod/map/MOD%20MAP%20KOTA%20MATI%20ALIYAN%20GMP.bussidmod"
+    },
+    {
+      "name_map": "Map Blusukan Konstruksi",
+      "view_map": "https://iili.io/HrRDBYG.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/map/mod%20map%20blusukan%20aliyan%20gmp%20contruksi.bussidmod"
+    },
+    {
+      "name_map": "Map Puncak Offroad",
+      "view_map": "https://iili.io/HrRD3Bt.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/db/mod/Map%20Puncak%20Offroad.bussidmod"
+    }
+  ],
+  "Mods": [
+    {
+      "title": "Mahendra JB5 Hino",
+      "image": "https://iili.io/JHvduCG.jpg",
+      "category": "JetBus",
+      "link_mods": "https://ia800505.us.archive.org/15/items/awmakanosika/JB5%20VAR%20HINO.bussidmod",
+      "name_livery": "Mahendra",
+      "link_livery": "https://rame1.maybusid.my.id/mod/liv/MAHENDRA%20TRANSPORT%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+
+    {
+      "title": "Sinar Jaya JB5 Hino",
+      "image": "https://iili.io/JHvdBYN.jpg",
+      "category": "JetBus",
+      "link_mods": "https://ia800505.us.archive.org/15/items/awmakanosika/JB5%20VAR%20HINO.bussidmod",
+      "name_livery": "Sinar Jaya",
+      "link_livery": "https://rame1.maybusid.my.id/mod/liv/SINAR%20JAYA%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "27 Trans JB5 Hino",
+      "image": "https://iili.io/JHvJb2V.jpg",
+      "category": "JetBus",
+      "link_mods": "https://ia800505.us.archive.org/15/items/awmakanosika/JB5%20VAR%20HINO.bussidmod",
+      "name_livery": "Trans JB5",
+      "link_livery": "https://rame1.maybusid.my.id/mod/liv/27%20TRANS%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Subur Jaya JB5 Hino",
+      "image": "https://iili.io/JqhSZpn.jpg",
+      "category": "JetBus",
+      "link_mods": "https://ia800505.us.archive.org/15/items/awmakanosika/JB5%20VAR%20HINO.bussidmod",
+      "name_livery": "Subur Jaya",
+      "link_livery": "https://mapes.maybusid.my.id/mod/liv/SUBUR%20JAYA%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Nafit Trans JB5 Hino",
+      "image": "https://iili.io/JqhSbhG.jpg",
+      "category": "JetBus",
+      "link_mods": "https://ia800505.us.archive.org/15/items/awmakanosika/JB5%20VAR%20HINO.bussidmod",
+      "name_livery": "Trans JB5",
+      "link_livery": "https://mapes.maybusid.my.id/mod/liv/NAFIT%20TRANS%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "JRG JB2+ Tronton Scania K410IB",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/73.jpg",
+      "category": "JetBus",
+      "link_mods": "https://ia904709.us.archive.org/21/items/wakicawcaaw/JB2%20TRONTON%20SCANIA%20K410IB%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+       "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "JRG JB3+ Tronton Volvo B11R",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/74.jpg",
+       "category": "JetBus",
+      "link_mods": "https://ia904709.us.archive.org/21/items/wakicawcaaw/JB3%2B%20TRONTON%20VOLVO%20B11R.bussidmod",
+      "name_livery": "Tronton Volvo",
+      "link_livery": "https://ia904709.us.archive.org/21/items/wakicawcaaw/JB3%2B%20SCANIA%20K410%20JRG%20-%20GRONK.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "JRG JB3+ SHD Hino RK",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/75.jpg",
+      "category": "JetBus",
+      "link_mods": "https://ia904709.us.archive.org/21/items/wakicawcaaw/JB3%2B%20SHD%20HINO%20RK.bussidmod",
+      "name_livery": "JRG JB3",
+      "link_livery": "https://ia904709.us.archive.org/21/items/wakicawcaaw/HINO%20UPDATE%20AF%20JRG%20-%20GRONK.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "JRG K410 SG",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/76.jpg",
+      "category": "JetBus",
+      "link_mods": "https://ia904709.us.archive.org/21/items/wakicawcaaw/K410%20SG.bussidmod",
+      "name_livery": "JRG",
+      "link_livery": "https://ia904709.us.archive.org/21/items/wakicawcaaw/JRG%20Single%20Glass%20by%20Blahbloh.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    }
+  ],
+  "Audio": [
+    {
+      "title_mp3": "Pujian Hasbunallah Wa Ni'mal Wakil",
+      "name": "Santri Njoso",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/hasbunallah.mp3"
+    }
+  ],
+  "Radio": [
+    {
+      "title_radio": "Rodja 756 AM",
+      "url_radio": "https://radioislamindonesia.com/rodja.mp3?_=2"
+    }
+  ]
+}
