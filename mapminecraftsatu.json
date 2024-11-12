@@ -17,6 +17,12 @@
       "view_map": "file:///android_asset/image/resort.jpg",
       "file_maps": "https://codegith.com/demo/maps/resort.mcworld",
       "description_map": "https://codegith.com/demo/maps/resort.html"
+    },
+     {
+      "title_map": "One Blocco 2023",
+      "view_map": "file:///android_asset/image/bloco.jpeg",
+      "file_maps": "https://codegith.com/demo/maps/One Blocco 2023.zip",
+      "description_map": "file:///android_asset/html/samplemaps.html"
     }
   ]
 }
