@@ -1,0 +1,23 @@
+{
+  "MAPS": [
+    {
+      "title_map": "Rage Parkour",
+      "view_map": "https://r2.mcpedl.com/submissions/234856/images/rage-parkour_2.jpeg",
+      "file_maps": "https://archive.org/download/rage-parkour/Rage_Parkour.mcworld",
+      "description_map": "<p>it's about a very difficult parkour, at the moment I just created 5 levels</p>"
+    },
+    {
+      "title_map": "Raid Zombie",
+      "view_map": "https://codegith.com/demo/maps/raid.jpeg",
+      "file_maps": "https://codegith.com/demo/maps/raid.mcworld",
+      "description_map": "<p style=\"text-align: justify;\">You and up to 7 other friends fight a never ending horde of zombies in fun and challenging maps. Zombies grow stronger every couple of rounds so make sure that you're prepared. Find and upgrade gear around the map to better equip yourself to face the never ending threat. Currently, there are three maps: Outpost, Forest, and City. Each map offers different tools and items to defend yourself with!&nbsp;Raid Zombies is best played with cooperative friends, selfish players in the beginning will hurt the whole team in later rounds.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://codegith.com/demo/maps/raid-zombies-coop-pve_9.jpeg\" alt=\"\" width=\"345\" height=\"190\" /></p>\n<p style=\"text-align: justify;\">(<strong>Note</strong>: Raid Zombies [2023] is a sequel / remastered version of my previous map, Raid Zombies.)</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://codegith.com/demo/maps/raid-zombies-coop-pve_11.jpeg\" alt=\"\" width=\"345\" height=\"190\" /></p>"
+    },
+    {
+      "title_map": "Gullivers World Resort",
+      "view_map": "file:///android_asset/image/resort.jpg",
+      "file_maps": "https://codegith.com/demo/maps/resort.mcworld",
+      "description_map": "https://codegith.com/demo/maps/resort.html"
+    }
+  ]
+}
+
