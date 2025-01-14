@@ -9,7 +9,7 @@
       "backup_ads_natives":"",
       "backup_ads_banner":"Banner_Android",
       "backup_ads_intertitial":"Interstitial_Android",
-      "open_app_ads":"",
+      "open_app_ads":"c584e0aa8272c624",
       "interval_intertitial": 1,
       "initialize_sdk":"5774730",
       "initialize_sdk_backup_ads":"5774730",
