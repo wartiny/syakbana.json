@@ -1,0 +1,83 @@
+{"Ads": 
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_app_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+     "Categories": [
+    {
+      "category": "Imlek",
+      "image_link": "https://frame.twibbonize.com/75a82eb7-8d41-40ab-9283-1269fe4265fc.png"
+
+    }
+  ],
+
+  "Item": [
+    {
+      "id": 1,
+      "category": "Imlek",
+      "title": "Hari Imlek 1",
+      "image_link": "https://frame.twibbonize.com/75a82eb7-8d41-40ab-9283-1269fe4265fc.png"
+    },
+    {
+      "id": 2,
+      "category": "Imlek",
+      "title": "Hari Imlek 2",
+      "image_link": "https://frame.twibbonize.com/9c9cbcfc-7011-4e74-af3c-c7209896d2da.png"
+    },
+    {
+      "id": 3,
+      "category": "Imlek",
+      "title": "Hari Imlek 3",
+      "image_link": "https://akcdn.detik.net.id/photowall/1736389434-framedesign-square.png"
+    },
+    {
+      "id": 4,
+      "category": "Imlek",
+      "title": "Hari Imlek 4",
+      "image_link": "https://akcdn.detik.net.id/photowall/1736389446-framedesign-square.png"
+    },
+    {
+      "id": 5,
+      "category": "Imlek",
+      "title": "Hari Imlek 5",
+      "image_link": "https://akcdn.detik.net.id/photowall/1736389449-framedesign-square.png"
+    },
+    {
+      "id": 6,
+      "category": "Imlek",
+      "title": "Hari Imlek 6",
+      "image_link": "https://akcdn.detik.net.id/photowall/1736389458-framedesign-square.png"
+    },
+    {
+      "id": 7,
+      "category": "Imlek",
+      "title": "Hari Imlek 7",
+      "image_link": "https://akcdn.detik.net.id/photowall/1736389465-framedesign-square.png"
+    },
+    {
+      "id": 8,
+      "category": "Imlek",
+      "title": "Hari Imlek 8",
+      "image_link": "https://akcdn.detik.net.id/photowall/1736389481-framedesign-square.png"
+    }
+
+  ]
+}
