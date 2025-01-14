@@ -1,10 +1,10 @@
 {
   "Ads": [
     {
-      "select_main_ads": "APPLOVIN-M",
+      "select_main_ads": "FACEBOOK",
       "select_backup_ads":"UNITY",
-      "main_ads_banner": "91754bff83570d25",
-      "main_ads_intertitial":"3d4a52c63b0ef0ea",
+      "main_ads_banner": "1129974852091484_1129976458757990",
+      "main_ads_intertitial":"1129974852091484_1129976535424649",
       "main_ads_natives":"",
       "backup_ads_natives":"",
       "backup_ads_banner":"Banner_Android",
