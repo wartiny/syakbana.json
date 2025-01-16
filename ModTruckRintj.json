@@ -1,0 +1,137 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_app_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Maps": [
+    {
+      "name_map": "Pedesaan Jalur Sawah V3 by Aliyan G.M.",
+      "view_map": "https://iili.io/HIX3uUb.md.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/db/mod/Map%20Pedesaan%20Jalur%20Sawah%20V3%20by%20Aliyan%20G.M.P.bussidmod"
+    },
+    {
+      "name_map": "Pedesaan V2 by Aliyan G.M.P",
+      "view_map": "https://iili.io/HIWmZjn.md.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/db/mod/Map%20Pedesaan%20V2%20by%20Aliyan%20G.M.P.bussidmod"
+    },
+    {
+      "name_map": "Off Road Pedesaan by Aliyan G.M.P",
+      "view_map": "https://iili.io/HotTzDx.md.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/db/mod/Map%20Off%20Road%20Pedesaan%20by%20Aliyan%20G.M.P.bussidmod"
+    },
+    {
+      "name_map": "Blusukan Bandung by Aliyan G.M.P",
+      "view_map": "https://iili.io/HoZgeje.md.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/db/mod/Map%20Blusukan%20Bandung%20by%20Aliyan%20G.M.P.bussidmod"
+    },
+    {
+      "name_map": "Pagar Alam",
+      "view_map": "https://iili.io/HDzpR71.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/map/update%20textru%20map%20pagaralam%20part3.bussidmod"
+    }
+  ],
+  "Mods": [
+    {
+      "title": "Hino 500 Toke Cangkang Liv 01",
+      "image": "https://iili.io/HvOaJoJ.jpg",
+      "category": "Truck",
+      "link_mods": "https://mod2n.maybusid.my.id/mod/truck/hino%20500%20cangkang.bussidmod",
+      "name_livery": "Hino 500",
+      "link_livery": "https://rame1.maybusid.my.id/mod/db/liv/Hino%20500%20Toke%20Cangkang%20Liv%2001.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Fuso Fighter Sumatra 01",
+      "image": "https://iili.io/Ht2CKMv.jpg",
+      "category": "Truck",
+      "link_mods": "https://rame1.maybusid.my.id/mod/truk/Fuso_FighterSumatra.bussidmod",
+      "name_livery": "Fuso Fighter",
+      "link_livery": "https://rame1.maybusid.my.id/mod/liv/sulPutih.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Fuso Fighter Sumatra 02",
+      "image": "https://iili.io/Ht2CTts.jpg",
+      "category": "Truck",
+      "link_mods": "https://rame1.maybusid.my.id/mod/truk/Fuso_FighterSumatra.bussidmod",
+      "name_livery": "Fuso Fighter",
+      "link_livery": "https://rame1.maybusid.my.id/mod/liv/sulOrange_Kuning.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Hino Dutro Dump Sulawesi",
+      "image": "https://iili.io/HDr8cI2.jpg",
+      "category": "Truck",
+      "link_mods": "https://mod2n.maybusid.my.id/mod/truck/Hino_Dutro_Dump_Sulawesi.bussidmod",
+      "name_livery": "Hino Dutro ",
+      "link_livery": "https://mod2n.maybusid.my.id/mod/liv/ijodutro%20sulawesi.png",
+      "name_livery2": "Ghaisan",
+      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.png"
+    },
+    {
+      "title": "Truck Isuzu Deca Bak Dropside by SJA Official",
+      "image": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.webp",
+      "category": "Truck",
+      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.bussidmod",
+      "name_livery": "Deca Bak V1",
+      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak1.png",
+      "name_livery2": "Deca Bak V2",
+      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak2.png"
+    },
+    {
+      "title": "Canter Semen 01",
+      "image": "https://iili.io/HtW3HRn.jpg",
+      "category": "Truck",
+      "link_mods": "https://rame1.maybusid.my.id/mod/truk/963_Canter_Cement.bussidmod",
+      "name_livery": "Canter Semen",
+      "link_livery": "https://rame1.maybusid.my.id/mod/liv/Semenputih.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Truck Perkasa Tangki by Ade Iskandar",
+      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
+      "category": "Mobil",
+      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.bussidmod",
+      "name_livery": "Pertamina",
+      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    }
+  ],
+  "Audio": [
+    {
+      "title_mp3": "null",
+      "name": "null",
+      "url_mp3": "null"
+    }
+  ],
+  "Radio": [
+    {
+      "title_radio": "null",
+      "url_radio": "null"
+    }
+  ]
+}
