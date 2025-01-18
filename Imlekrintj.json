@@ -2,12 +2,12 @@
   [
     {
       "select_main_ads": "FACEBOOK",
-      "select_backup_ads":"STARTAPP",
+      "select_backup_ads":"ADMOB",
       "main_ads_banner": "482764391181885_482765071181817",
       "main_ads_intertitial":"482764391181885_482765134515144",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "open_app_ads":"",
+      "backup_ads_banner":"ca-app-pub-4479847486661284/1436185845",
+      "backup_ads_intertitial":"ca-app-pub-4479847486661284/9208802453",
+      "open_app_ads":"ca-app-pub-4479847486661284/6582639112",
       "interval_intertitial": 1,
       "initialize_sdk":"200341049",
       "initialize_sdk_backup_ads":"200341049",
