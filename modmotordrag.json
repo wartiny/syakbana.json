@@ -51,6 +51,26 @@
   ],
   "Mods": [
       {
+      "title": "SATRIA FU DRAG",
+      "image": "https://static.gameloop.com/img/ff18211e64aa0e205f6744b2ce28ddb4.jpg",
+      "category": "Motor",
+      "link_mods": "https://ia601200.us.archive.org/22/items/mtrunksi/Motor%20Suzuki%20Satria%20FU%20Drag.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+     {
+      "title": "Beat Drag Racing",
+      "image": "https://api.duniagames.co.id/api/content/upload/file/21380623601729850349.jpg",
+      "category": "Motor",
+      "link_mods": "https://ia601200.us.archive.org/22/items/mtrunksi/MOD%20BUSSID%20Motor%20Honda%20Beat%20Drag%20Racing.bussidvehicle",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+      {
       "title": "AEROX HEDON MODIF PROPER BY REGA X GAMING",
       "image": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2020/10/SGCA_IMG-6132.jpg",
       "category": "Motor",
