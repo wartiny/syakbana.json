@@ -50,7 +50,17 @@
     }
   ],
   "Mods": [
-     {
+          {
+      "title": "HINO Gandeng GRILL 3",
+      "image": "https://i.ytimg.com/vi/rQXQC1gOhFE/hq720.jpg",
+      "category": "Bus",
+      "link_mods": "https://mapes.maybusid.my.id/modz/truck/Hino%20Gandeng%20Grill%203.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
       "title": "LIVERY HINO MOLEN BATADORESS GAMING",
       "image": "https://modbussidterbaru.com/wp-content/uploads/2023/11/Download-Mod-Bussid-Truck-Hino-Molen-Besar-Full-Anim.png",
       "category": "Bus",
