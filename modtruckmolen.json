@@ -1,0 +1,188 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_app_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Maps": [
+    {
+      "name_map": "Tol Trans Jawa v2 by X Play Kembar",
+      "view_map": "file:///android_asset/tol.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/cikampek.bussidmod"
+    },
+    {
+      "name_map": "Kelok 18 by Aliyan GMP",
+      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/kelok.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/kelok.bussidmod"
+    },
+    {
+      "name_map": "Jalur Bukit, Hutan dan Berkelok v3 by Aliyan GMP",
+      "view_map": "file:///android_asset/berkelok.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/berkelok.bussidmod"
+    },
+    {
+      "name_map": "Bukit Bintang (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
+      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/bukit.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
+    },
+    {
+      "name_map": "Poris – Pemalang v1 by Fergiawan CH",
+      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
+    }
+  ],
+  "Mods": [
+     {
+      "title": "LIVERY HINO MOLEN BATADORESS GAMING",
+      "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap1.png",
+      "category": "Bus",
+      "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap1.bussidmod",
+      "name_livery": "LIVERY HINO MOLEN BATADORESS GAMING",
+      "link_livery": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap1.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "MOLEN 17 MERAH",
+      "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap2.png",
+      "category": "Bus",
+      "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap1.bussidmod",
+      "name_livery": "CANTER MOLEN  MIXER  CUSTOM 17 MERAH",
+      "link_livery": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap2.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "MOLEN 17 PUTIH",
+      "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap3.png",
+      "category": "Bus",
+      "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap1.bussidmod",
+      "name_livery": "CANTER MOLEN  MIXER  CUSTOM 17 PUTIH",
+      "link_livery": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap3.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "CANTER MOLEN HIJAU",
+      "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap4.jpg",
+      "category": "Bus",
+      "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap2.bussidmod",
+      "name_livery": "CANTER MOLEN  MIXER  CUSTOM 17 HIJAU",
+      "link_livery": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap4.jpg",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "CANTER MOLEN  MIXER  CUSTOM 17 KUNING",
+      "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap5.png",
+      "category": "Bus",
+      "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap2.bussidmod",
+      "name_livery": "MOLEN KUNING",
+      "link_livery": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap5.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    }
+  ],
+  "Audio": [
+    {
+      "title_mp3": "Pujian Hasbunallah Wa Ni'mal Wakil",
+      "name": "Santri Njoso",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/hasbunallah.mp3"
+    },
+    {
+      "title_mp3": "Al'Itiraf - Sebuah pengakuan",
+      "name": "Alfina Nindiyani",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/altiraf.mp3"
+    },
+    {
+      "title_mp3": "Do'a Rajab",
+      "name": "Alfina Nindiyani",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rajab.mp3"
+    },
+    {
+      "title_mp3": "Allahul kaafi",
+      "name": "Bebiraira Channel",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/Allahul kaafi.mp3"
+    },
+    {
+      "title_mp3": "Rindu Madinah Cover By Umar Razeeq ft Mujib",
+      "name": "Shatibiyyah Studio",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rindu.mp3"
+    },
+    {
+      "title_mp3": "Train Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/train_horn.mp3"
+    },
+    {
+      "title_mp3": "Dixie Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/dixie_horn.mp3"
+    },
+    {
+      "title_mp3": "Clown Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/clown_horn.mp3"
+    }
+  ],
+  "Radio": [
+    {
+      "title_radio": "Rodja 756 AM",
+      "url_radio": "https://radioislamindonesia.com/rodja.mp3?_=2"
+    },
+    {
+      "title_radio": "Suara Al-Iman 846 AM",
+      "url_radio": "https://radioislamindonesia.com/aliman.mp3"
+    },
+    {
+      "title_radio": "Tarbiyah Sunnah 1476 AM",
+      "url_radio": "https://radioislamindonesia.com/tarbiyah.mp3"
+    },
+    {
+      "title_radio": "kalam FM 100.6 Mhz",
+      "url_radio": "https://radioislamindonesia.com/idzaatulkhair.mp3"
+    },
+    {
+      "title_radio": "Mutiara Qu'an 1170 am",
+      "url_radio": "https://radioislamindonesia.com/mutiaraquran.mp3"
+    },
+    {
+      "title_radio": "Hidayah 103,4 FM",
+      "url_radio": "https://radioislamindonesia.com/radiohidayah.mp3"
+    },
+    {
+      "title_radio": "Madinah FM 107,7 Mhz",
+      "url_radio": "https://radioislamindonesia.com/radiomadinah.mp3"
+    },
+    {
+      "title_radio": "Muadz 94.3 FM",
+      "url_radio": "https://radioislamindonesia.com/radiomuadz.mp3"
+    },
+    {
+      "title_radio": "Shahabat Muslim 107.7 FM",
+      "url_radio": "https://radioislamindonesia.com/shahabatmuslim.mp3"
+    },
+    {
+      "title_radio": "SKN Al-Bayaan 95 FM",
+      "url_radio": "https://server-s5.xajist.com/sslstream/8526/"
+    }
+  ]
+}
