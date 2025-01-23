@@ -1,15 +1,15 @@
 {"Ads": 
   [
     {
-      "select_main_ads": "FACEBOOK",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "482764391181885_482765071181817",
-      "main_ads_intertitial":"482764391181885_482765134515144",
-      "backup_ads_banner":"ca-app-pub-4479847486661284/1436185845",
-      "backup_ads_intertitial":"ca-app-pub-4479847486661284/9208802453",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      "main_ads_banner": "ca-app-pub-4479847486661284/1436185845",
+      "main_ads_intertitial":"ca-app-pub-4479847486661284/9208802453",
+      "backup_ads_banner":"482764391181885_482765071181817",
+      "backup_ads_intertitial":"482764391181885_482765134515144",
       "open_app_ads":"ca-app-pub-4479847486661284/6582639112",
       "interval_intertitial": 1,
-      "initialize_sdk":"200341049",
+      "initialize_sdk":"5777011",
       "initialize_sdk_backup_ads":"200341049",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
