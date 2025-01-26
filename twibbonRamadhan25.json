@@ -1,0 +1,76 @@
+{"Ads": 
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_app_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+     "Categories": [
+    {
+      "category": "Ramadhan",
+      "image_link": "https://frame.twibbonize.com/8775b6cb-571e-4375-a9a7-affb8b038790.png"
+
+    }
+
+  "Item": [
+    {
+      "id": 1,
+      "category": "Ramadhan",
+      "title": "Selamat Ramadhan",
+      "image_link": "https://frame.twibbonize.com/8775b6cb-571e-4375-a9a7-affb8b038790.png"
+    },
+    {
+      "id": 2,
+      "category": "Ramadhan",
+      "title": "Selamat Ramadhan 2",
+      "image_link": "https://frame.twibbonize.com/5cbda475-95ec-4aeb-8352-884b4b305653.png"
+    },
+    {
+      "id": 3,
+      "category": "Ramadhan",
+      "title": "Selamat Ramadhan 3",
+      "image_link": "https://frame.twibbonize.com/0cfd2882-d531-4cb3-87a8-f80fde1b3dbc.png"
+    },
+    {
+      "id": 4,
+      "category": "Ramadhan",
+      "title": "Selamat Ramadhan 4",
+      "image_link": "https://frame.twibbonize.com/6dcb91f5-aa0e-4c28-9807-03f4496503be.png"
+    },
+    {
+      "id": 5,
+      "category": "Ramadhan",
+      "title": "Selamat Ramadhan 5",
+      "image_link": "https://frame.twibbonize.com/64e29765-1188-424a-be07-aada1d7f5028.png"
+    },
+    {
+      "id": 6,
+      "category": "Ramadhan",
+      "title": "Selamat Ramadhan 6",
+      "image_link": "https://frame.twibbonize.com/9083ed34-a953-4fce-a9c1-98ca75ca1ff6.png"
+    },
+    {
+      "id": 7,
+      "category": "Ramadhan",
+      "title": "Selamat Ramadhan 7",
+      "image_link": "https://frame.twibbonize.com/e4e49dd1-bc64-4c29-9c4e-0f6fe9c80c3f.png"
+    }
+
+  ]
+}
